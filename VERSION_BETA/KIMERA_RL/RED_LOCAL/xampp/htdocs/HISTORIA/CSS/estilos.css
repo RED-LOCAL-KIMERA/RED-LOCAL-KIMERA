@@ -1,0 +1,1113 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 13px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+#principal {
+	max-width: 1024px;
+	width: 90%;
+	max-height: 760px;
+	min-width: 231px;
+	padding-top: 1%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: transparent;
+	position: relative;
+}
+#encabezado {
+	width: 80%;
+	float: left;
+	position: relative;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+	margin-left: 9%;
+}
+
+#linea{
+	width: 100%;
+	float: left;
+	height: auto;
+	border-bottom: 1px outset black;
+	border-right: 1px outset black;
+	border-left: 1px outset rgba(85,85,85,1.00);
+	border-top: 1px outset rgba(85,85,85,1.00);
+	background-color: transparent;
+}
+#logo {
+	width: 31%;
+	float: left;
+	background-color: #fff;
+}
+#titulos {
+	width: 67%;
+	float: right;
+	background-color: #fff;
+	}
+#logo img {
+	width: 100%;
+	padding-top: 3%;
+	padding-bottom: 4%;
+}
+#titulos img {
+	width: 100%;
+	float: right;
+	padding-top: 5%;
+	padding-right: 3%;
+}
+#final{
+	margin-top: 0.5%;
+	width: 100%;
+	position: relative;
+	float: left;
+	font-size-adjust: auto;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+	visibility: hidden;
+}
+#piedepagina {
+	background-color:rgba(0,0,0,0.8);
+	float: left;
+	width: 100%;
+	position: relative;
+	color:white;	
+}
+#piedepagina a {
+	color:dodgerblue;
+}
+#piedepagina img {
+	float: right;
+	width: 10%;
+	position: relative;
+	margin-bottom: 1%;
+}
+#contactos {
+	float: right;
+	width: 100%;
+	position: relative;
+	background-color:rgba(17,17,17,1.00);
+	color: white;
+	text-align: right;
+}
+#contactos a {
+	color:dodgerblue;
+	font-size: 12px;
+}
+#separador {
+	background-color: #de2f2f;
+	width: 100%;
+	float: left;
+	position:relative;
+	padding-top: 2.5%;
+}
+#contacto1 {
+	float: right;
+	width: 30%;
+	position: relative;
+	background-color:rgba(17,17,17,1.00);
+	color: white;
+	text-align: right;
+}
+#contacto2 {
+	float: left;
+	width: 70%;
+	position: relative;
+	background-color:rgba(17,17,17,1.00);
+	color: white;
+	text-align: right;
+}
+#medio{
+	background-color:transparent;
+	color: white;
+	position: relative;
+	width: 100%;
+	height: 90%;
+	float: left;
+	font-size-adjust: auto;
+	
+}
+#seleccionar{
+	width: 100%;
+	float: left;
+	background-color:rgba(0,0,0,0.8);
+	color: white;
+	position:relative;
+	visibility: visible;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+	margin-left: -1%;
+}
+#biografias nav {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	line-height: 100%;
+}
+#menuprincipal {
+	width: 100%;
+	height: 330px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+.periodoprehispanico {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:left;
+	text-decoration:underline;
+	font-size: 13px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+	width: 100%;
+	position:relative;
+	display: none;
+}
+.periodoprehispaniconocel {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 12px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+	width: 100%;
+	position: relative;
+	display: block;
+}
+.pie {
+	width: 100%;
+	visibility: hidden;
+	text-align: center;
+	position: relative;	
+}
+
+.laconquista {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 15px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+.lacolonia {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 15px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+.laindependencia {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 15px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+.lagrancolombia {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 15px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+.denuevagranada {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 12px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+.laregeneracion {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 12px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+.elsigloxx {
+	background-color:rgba(8,16,163,1.00);
+	color:#f1c40f;
+	text-align:right;
+	text-decoration:underline;
+	font-size: 12px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	padding: 5px;
+}
+#biografias {
+	width: 100%;
+	background-color: rgba(235,0,3,1);
+	float: right;
+	position: absolute;
+	visibility: hidden;
+}
+#contenedor{
+	width: 100%;
+	background-color:brown;
+	visibility: hidden;
+	position: absolute;	
+}
+main,section,article,figure {
+}
+main {
+	position:relative;
+	width: 100%;
+}
+#poblamientocolombia {
+	width: 100%;
+	background: whirgba(255,255,255,1.00);
+	z-index: 1;
+	position: absolute;
+	visibility: hidden;
+	height: 449px;
+	overflow-x: hidden;	
+	background-color: white;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+}
+#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+	width: 100%;
+	background: whirgba(255,255,255,1.00);
+	z-index: auto;
+	position: absolute;
+	visibility: hidden;
+	height: 449px;
+	overflow: auto;	
+	background-color: white;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+}
+#poblamientocolombia article,#familiaslinguisticas article,#losguajiros article,#lostairona article,#lossinues article,#golfouraba article,#rioatrato article,#riocauca article,#lospijaos article,#lossutagaos article,#losandaki article,#losmuisca article,#losguanes article,#loschitareros article,#loslaches article,#lostunebos article,#llanos article,#lospastos article,#losquillacinga article,#permanente article,#ocasional article,#camuisca article,#loscapitanes article,#conmuisca article,#contairona article,#conantypop article,#loscaciques article,#legprehispanica article,#asgenerales article,#cazaypesca article,#minasal article,#minaesmeralda article,#agriculturaindigena article,#cointertribal article,#comuisca article,#ceramica article,#orfebreria article,#tejido article,#armuisca article,#tributacion article,#sacerdotes article,#templo article,#ceremonias article,#ritos article,#chiminigagua article,#chia article,#bochica article,#tomagata article,#chibchacun article,#nencatacoa article,#chaquen article,#guahajoque article,#sacrificios article,#culto article,#chaman article,#plantasmagicas article,#capitulacion article,#compania article,#expediciones article,#cabalgatas article,#sepulturas article,#funciudades article,#alonsoojeda article,#rodrigobastidas article,#alonsoojeda2 article,#exguerra article,#juan2 article,#alonso article,#oceanopacifico article,#castillaoro article,#gobrodrigo article,#gobpedro article,#gobgarcia article,#gobfernandez article,#gobalonso article,#santamaria article,#gobgonzalo article,#gobheredia article,#gobjuan article,#gobsantacruz article,#gobheredia2 article,#gobherediault article,#expedicion1 article,#funcali article,#belalcazar article,#funpasto article,#gobrio article,#gobpopayan article,#funantioquia article,#finpopayan article,#viajejuan article,#expjorge article,#exjimenez article,#santafe article,#velez article,#dominacion article,#jeronimo article,#alonsoluis article,#armendariz article,#nuevas article,#gobernador article,#cabildos article,#establecimiento article,#legislacion article,#generales article,#repartimientos article,#encomienda article,#servicio article,#esclavitud article,#reptierra article,#comunales article,#ejidos article,#propios article,#resguardos article,#patronato article,#diocesis article,#misiones article,#jesus article,#inquisicion article,#encomenderos article,#noencomenderos article,#vecinos article,#estantes article,#indios article,#centralismo article,#reglamentarismo article,#intervencionismo article,#uniformidad article,#casuismo article,#burocratismo article,#concentracion article,#control article,#conflictos article,#monarquia article,#real article,#contratacion article,#consejo article,#audiencias article,#oidores article,#acuerdos article,#audiencia article,#presidente article,#presidencia article,#gobernaciones article,#virreyes article,#virreinato article,#primer article,#segundo article,#intendente article,#regencia article,#consulado article,#alcaldes article,#cabildo article,#residencia article,#visita article,#publicos article,#futuras article,#salarios article,#ascensos article,#virre article,#regentes article,#pacificador article,#municipal article,#fuero article,#siete article,#jusgo article,#toro article,#novisima article,#indiano article,#aspgenerales article,#oro article,#plata article,#minas article,#laagricultura article,#comerciantes article,#mercaderes article,#tratantes article,#ropascastilla article,#ropastierra article,#flotas article,#asientos article,#contrabando article,#interno article,#artesania article,#esclavitudnegra article,#mita article,#concierto article,#peonaje article,#obrajes article,#rentas article,#azogue article,#sellado article,#aguardiente article,#tabaco article,#naipes article,#polvora article,#lamineria article,#alcomercio article,#comexterior article,#lagricultura article,#posicion article,#alclero article,#tributo article,#marca article,#donativos article,#cargos article,#ingresos article,#apropiacion article,#tierraindios article,#hacienda article,#plantacion article,#estancias article,#baldios article,#politicas article,#reglamento article,#botanica article,#eutropelica article,#buengusto article,#filantropica article,#religiosas article,#literariareli article,#escuelas article,#universidad article,#educativo article,#reforma article,#losespanoles article,#loscriollos article,#mestizos article,#mulatos article,#zambos article,#losindios article,#negrosesclavos article,#comuneros article,#cimarrones article,#lasciudades article,#lasvillas article,#loslugares article,#losasientos article,#elsitio article,#reales article,#asientominas article,#rancheria article,#palenques article,#pueblos article,#revolucionario article,#invasion article,#impacto article,#reborbonicas article,#elitecriollo article,#critica article,#ilustrados article,#solidaridad article,#regionales article,#espanola article,#americano article,#boba article,#reconquista article,#pacificadoras article,#terror article,#guepatriotas article,#hilario article,#deneiva article,#sabana article,#casanare article,#procasanare article,#ejerlibertador article,#apoyomonarquia article,#continuidad article,#rebelioncab article,#juntasuprema article,#indeprovincias article,#provinciasunidas article,#grupos1 article,#consejo1 article,#federalismo article,#presidentes1 article,#derrotaprovincias article,#conguerra article,#conpurificacion article,#conpermanente article,#secuestros article,#resinquisicion article,#castigos article,#conautoridades article,#republicacolombia article,#cadiz article,#fernando7 article,#angostura article,#aspectosgeneral article,#lasmineria article,#lasagricultura article,#elcomercio article,#formastrabajo article,#losimpuestos article,#emprestitos article,#normasdeuda article,#factores article,#tierindios article,#crishacienda article,#svicepresidenciasan article,#rebelionpaez article,#rebelionecuador article,#facultadesextra article,#convocatoriaocana article,#santanderbolivar article,#presibolivar article,#dicbolivar article,#disolucion article,#dicbolivariana article,#gob1819 article,#concucuta article,#conscucuta article,#legissantander article,#consbolivia article,#convencionocana article,#legbolivar article,#constitucion1830 article,#herenciaeco article,#medidasextra article,#formastrabajos article,#ratificaciontabaco article,#impuestosgran article,#desemprestitos article,#tierrasres article,#mayorazgos article,#congrecucuta article,#boli1826 article,#pobcolombia article,#abolicionmonas article,#abolicioninqui article,#opivaticano article,#conspatronato article,#leypatronato article,#relestado article,#fueroecle article,#sociedabibli article,#educaciongran article,#newgranada article,#congranadina article,#esnewgranada article,#escolombia article,#gob18321884 article,#civimili article,#libeconser article,#refmedio article,#guesupremos article,#guerr1851 article,#golpmelo article,#rebelmosquera article,#guer1877 article,#federalismos article,#estadnewgranada article,#confederagrana article,#estnuevgranad article,#estadcolombi article,#herecolonia article,#constitucione article,#mineriasxix article,#agricxix article,#comexix article,#artesaniaxix article,#prindustriales article,#formtrabaj article,#finestabaco article,#aboldiezmo article,#findirecta article,#suptierras article,#abolresguard article,#latifundio article,#redecensos article,#polieconomic article,#pobsigloxix article,#navapor article,#viascomunicacion article,#anticlericales article,#iglepartidos article,#refclesiasticas article,#sepiglesiaestad article,#anticlericalesmosq article,#probreligioso article,#edugobsantand article,#edugobradical article,#terraneogranadin article,#comerneogranadin article,#artenewgranad article,#opoliberal article,#proypolitico article,#logobierno article,#secparlibera article,#secparconservad article,#coalicipoliti article,#Guer188586 article,#Guer1895 article,#mildias article,#creapoli article,#lacrisis article,#logobernant article,#constituc1886 article,#leydprensa article,#leydcaballos article,#comeresterege article,#prodexporege article,#creacindustrirege article,#formatrabarege article,#hacipublicarege article,#propiedtierrarege article,#politeconorege article,#navriomagrege article,#crisferrocarege article,#insteconorege article,#agrecatlica article,#elconcordat article,#educaregerera article,#repconservador article,#repliberal article,#laviolenci article,#frentenaciona article,#posfrentenacion article,#connacional article,#transit1909 article,#unirepublica article,#joseconcha article,#marcosuarez article,#pedronelospin article,#miabadimendez article,#enriqolaher article,#alflopezpum article,#edusantos article,#alflopezpum2 article,#alblleracamarg article,#mariospinaper article,#laureanogome article,#gusrojpinill article,#frenaciona article,#alfmichelsen article,#belbetancourt article,#virgibarcovar article,#cesgavtruj article,#ernesampizan article,#andpastarng article,#alvaruribe article,#gobernsiglxx article,#partdoeconmico article,#libelicista article,#cirrafaurib article,#bloqliber article,#libercivilis article,#liberlopista article,#libersantist article,#libergaitanist article,#elmrl article,#nueliberalism article,#conconservado article,#losnacion article,#conlaureanis article,#conalzatist article,#conospinist article,#unirepublicn article,#losromanist article,#uninacionl article,#partsociali article,#socrevolucion article,#partcomunist article,#launir article,#tercefuerz article,#guerrcolperu article,#asaconst1905 article,#asaconst1910 article,#refcons1910 article,#gobiunirepublic article,#leyheroik article,#refconst1936 article,#ley2001936 article,#ley1001944 article,#ley61945 article,#proyeconst1953 article,#constituc1991 article,#econo19041919 article,#econo19201930 article,#despue1930 article,#Ecocafeter article,#sectagrico article,#laganader article,#tecnagricol article,#interestacamp article,#campafoment article,#exportbanan article,#exportpetro article,#industriainic article,#industria30 article,#caracindustrial article,#rafreyes article,#cepalinas article,#polcambiar article,#polexport article,#aperecon article,#aperecongaviri article,#reconomica article,#medtrnsport article,#bancentral article,#bancrepublic article,#cajagraria article,#bancafeter article,#banadero article,#banagricol article,#banpopul article,#sociagricolomb article,#federcafeter article,#landi article,#lapen article,#elidema article,#elinderena article,#elincora article,#eldri article,#elhimat article,#minisagricult article,#ministmeambient article,#fonnacdcafe article,#fomenindustria article,#credicterrito article,#ierepconservador article,#iereplibera article,#ielaviolenci article,#iefrentnaciona article,#huelguisxx article,#enriqolayaherr article,#alfonslopez1 article,#eduarsanto article,#alfonslopez2 article,#alberllercamar article,#marianospiper article,#gustarojaspinill article,#guillerleovalenc article,#carllerasrestrep article,#misapastraborrer article,#alfolopmichelse article,#enriolherrer article,#alfonlopepum article,#eduardsant article,#alfonlopepum2 article,#albertllercama article,#alberllerrrcamar article,#guilleleovalenc article,#misapastborr article,#alfonslomichels article,#sepanama article,#trataurrutia article,#propaz198286 article,#plancolombia article {
+	float: right;
+	width: 100%;
+}
+#poblamientocolombia p,#familiaslinguisticas p,#losguajiros p,#lostairona p,#lossinues p,#golfouraba p,#rioatrato p,#riocauca p,#lospijaos p,#lossutagaos p,#losandaki p,#losmuisca p,#losguanes p,#loschitareros p,#loslaches p,#lostunebos p,#llanos p,#lospastos p,#losquillacinga p,#permanente p,#ocasional p,#camuisca p,#loscapitanes p,#conmuisca p,#contairona p,#conantypop p,#loscaciques p,#legprehispanica p,#asgenerales p,#cazaypesca p,#minasal p,#minaesmeralda p,#agriculturaindigena p,#cointertribal p,#comuisca p,#ceramica p,#orfebreria p,#tejido p,#armuisca p,#tributacion p,#sacerdotes p,#templo p,#ceremonias p,#ritos p,#chiminigagua p,#chia p,#bochica p,#tomagata p,#chibchacun p,#nencatacoa p,#chaquen p,#guahajoque p,#sacrificios p,#culto p,#chaman p,#plantasmagicas p,#capitulacion p,#compania p,#expediciones p,#cabalgatas p,#sepulturas p,#funciudades p,#alonsoojeda p,#rodrigobastidas p,#alonsoojeda2 p,#exguerra p,#juan2 p,#alonso p,#oceanopacifico p,#castillaoro p,#gobrodrigo p,#gobpedro p,#gobgarcia p,#gobfernandez p,#gobalonso p,#santamaria p,#gobgonzalo p,#gobheredia p,#gobjuan p,#gobsantacruz p,#gobheredia2 p,#gobherediault p,#expedicion1 p,#funcali p,#belalcazar p,#funpasto p,#gobrio p,#gobpopayan p,#funantioquia p,#finpopayan p,#viajejuan p,#expjorge p,#exjimenez p,#santafe p,#velez p,#dominacion p,#jeronimo p,#alonsoluis p,#armendariz p,#nuevas p,#gobernador p,#cabildos p,#establecimiento p,#legislacion p,#generales p,#repartimientos p,#encomienda p,#servicio p,#esclavitud p,#reptierra p,#comunales p,#ejidos p,#propios p,#resguardos p,#patronato p,#diocesis p,#misiones p,#jesus p,#inquisicion p,#encomenderos p,#noencomenderos p,#vecinos p,#estantes p,#indios p,#centralismo p,#reglamentarismo p,#intervencionismo p,#uniformidad p,#casuismo p,#burocratismo p,#concentracion p,#control p,#conflictos p,#monarquia p,#real p,#contratacion p,#consejo p,#audiencias p,#oidores p,#acuerdos p,#audiencia p,#presidente p,#presidencia p,#gobernaciones p,#virreyes p,#virreinato p,#primer p,#segundo p,#intendente p,#regencia p,#consulado p,#alcaldes p,#cabildo p,#residencia p,#visita p,#publicos p,#futuras p,#salarios p,#ascensos p,#virre p,#regentes p,#pacificador p,#municipal p,#fuero p,#siete p,#jusgo p,#toro p,#novisima p,#indiano p,#aspgenerales p,#oro p,#plata p,#minas p,#laagricultura p,#comerciantes p,#mercaderes p,#tratantes p,#ropascastilla p,#ropastierra p,#flotas p,#asientos p,#contrabando p,#interno p,#artesania p,#esclavitudnegra p,#mita p,#concierto p,#peonaje p,#obrajes p,#rentas p,#azogue p,#sellado p,#aguardiente p,#tabaco p,#naipes p,#polvora p,#lamineria p,#alcomercio p,#comexterior p,#lagricultura p,#posicion p,#alclero p,#tributo p,#marca p,#donativos p,#cargos p,#ingresos p,#apropiacion p,#tierraindios p,#hacienda p,#plantacion p,#estancias p,#baldios p,#politicas p,#reglamento p,#botanica p,#eutropelica p,#buengusto p,#filantropica p,#religiosas p,#literariareli p,#escuelas p,#universidad p,#educativo p,#reforma p,#losespanoles p,#loscriollos p,#mestizos p,#mulatos p,#zambos p,#losindios p,#negrosesclavos p,#comuneros p,#cimarrones p,#lasciudades p,#lasvillas p,#loslugares p,#losasientos p,#elsitio p,#reales p,#asientominas p,#rancheria p,#palenques p,#pueblos p,#revolucionario p,#invasion p,#impacto p,#reborbonicas p,#elitecriollo p,#critica p,#ilustrados p,#solidaridad p,#regionales p,#espanola p,#americano p,#boba p,#reconquista p,#pacificadoras p,#terror p,#guepatriotas p,#hilario p,#deneiva p,#sabana p,#casanare p,#procasanare p,#ejerlibertador p,#apoyomonarquia p,#continuidad p,#rebelioncab p,#juntasuprema p,#indeprovincias p,#provinciasunidas p,#grupos1 p,#consejo1 p,#federalismo p,#presidentes1 p,#derrotaprovincias p,#conguerra p,#conpurificacion p,#conpermanente p,#secuestros p,#resinquisicion p,#castigos p,#conautoridades p,#republicacolombia p,#cadiz p,#fernando7 p,#angostura p,#aspectosgeneral p,#lasmineria p,#lasagricultura p,#elcomercio p,#formastrabajo p,#losimpuestos p,#emprestitos p,#normasdeuda p,#factores p,#tierindios p,#crishacienda p,#svicepresidenciasan p,#rebelionpaez p,#rebelionecuador p,#facultadesextra p,#convocatoriaocana p,#santanderbolivar p,#presibolivar p,#dicbolivar p,#disolucion p,#dicbolivariana p,#gob1819 p,#concucuta p,#conscucuta p,#legissantander p,#consbolivia p,#convencionocana p,#legbolivar p,#constitucion1830 p,#herenciaeco p,#medidasextra p,#formastrabajos p,#ratificaciontabaco p,#impuestosgran p,#desemprestitos p,#tierrasres p,#mayorazgos p,#congrecucuta p,#boli1826 p,#pobcolombia p,#abolicionmonas p,#abolicioninqui p,#opivaticano p,#conspatronato p,#leypatronato p,#relestado p,#fueroecle p,#sociedabibli p,#educaciongran p,#newgranada p,#congranadina p,#esnewgranada p,#escolombia p,#gob18321884 p,#civimili p,#libeconser p,#refmedio p,#guesupremos p,#guerr1851 p,#golpmelo p,#rebelmosquera p,#guer1877 p,#federalismos p,#estadnewgranada p,#confederagrana p,#estnuevgranad p,#estadcolombi p,#herecolonia p,#constitucione p,#mineriasxix p,#agricxix p,#comexix p,#artesaniaxix p,#prindustriales p,#formtrabaj p,#finestabaco p,#aboldiezmo p,#findirecta p,#suptierras p,#abolresguard p,#latifundio p,#redecensos p,#polieconomic p,#pobsigloxix p,#navapor p,#viascomunicacion p,#anticlericales p,#iglepartidos p,#refclesiasticas p,#sepiglesiaestad p,#anticlericalesmosq p,#probreligioso p,#edugobsantand p,#edugobradical p,#terraneogranadin p,#comerneogranadin p,#artenewgranad p,#opoliberal p,#proypolitico p,#logobierno p,#secparlibera p,#secparconservad p,#coalicipoliti p,#Guer188586 p,#Guer1895 p,#mildias p,#creapoli p,#lacrisis p,#logobernant p,#constituc1886 p,#leydprensa p,#leydcaballos p,#comeresterege p,#prodexporege p,#creacindustrirege p,#formatrabarege p,#hacipublicarege p,#propiedtierrarege p,#politeconorege p,#navriomagrege p,#crisferrocarege p,#insteconorege p,#agrecatlica p,#elconcordat p,#educaregerera p,#repconservador p,#repliberal p,#laviolenci p,#frentenaciona p,#posfrentenacion p,#connacional p,#transit1909 p,#unirepublica p,#joseconcha p,#marcosuarez p,#pedronelospin p,#miabadimendez p,#enriqolaher p,#alflopezpum p,#edusantos p,#alflopezpum2 p,#alblleracamarg p,#mariospinaper p,#laureanogome p,#gusrojpinill p,#frenaciona p,#alfmichelsen p,#belbetancourt p,#virgibarcovar p,#cesgavtruj p,#ernesampizan p,#andpastarng p,#alvaruribe p,#gobernsiglxx p,#partdoeconmico p,#libelicista p,#cirrafaurib p,#bloqliber p,#libercivilis p,#liberlopista p,#libersantist p,#libergaitanist p,#elmrl p,#nueliberalism p,#conconservado p,#losnacion p,#conlaureanis p,#conalzatist p,#conospinist p,#unirepublicn p,#losromanist p,#uninacionl p,#partsociali p,#socrevolucion p,#partcomunist p,#launir p,#tercefuerz p,#guerrcolperu p,#asaconst1905 p,#asaconst1910 p,#refcons1910 p,#gobiunirepublic p,#leyheroik p,#refconst1936 p,#ley2001936 p,#ley1001944 p,#ley61945 p,#proyeconst1953 p,#constituc1991 p,#econo19041919 p,#econo19201930 p,#despue1930 p,#Ecocafeter p,#sectagrico p,#laganader p,#tecnagricol p,#interestacamp p,#campafoment p,#exportbanan p,#exportpetro p,#industriainic p,#industria30 p,#caracindustrial p,#rafreyes p,#cepalinas p,#polcambiar p,#polexport p,#aperecon p,#aperecongaviri p,#reconomica p,#medtrnsport p,#bancentral p,#bancrepublic p,#cajagraria p,#bancafeter p,#banadero p,#banagricol p,#banpopul p,#sociagricolomb p,#federcafeter p,#landi p,#lapen p,#elidema p,#elinderena p,#elincora p,#eldri p,#elhimat p,#minisagricult p,#ministmeambient p,#fonnacdcafe p,#fomenindustria p,#credicterrito p,#ierepconservador p,#iereplibera p,#ielaviolenci p,#iefrentnaciona p,#huelguisxx p,#enriqolayaherr p,#alfonslopez1 p,#eduarsanto p,#alfonslopez2 p,#alberllercamar p,#marianospiper p,#gustarojaspinill p,#guillerleovalenc p,#carllerasrestrep p,#misapastraborrer p,#alfolopmichelse p,#enriolherrer p,#alfonlopepum p,#eduardsant p,#alfonlopepum2 p,#albertllercama p,#alberllerrrcamar p,#guilleleovalenc p,#misapastborr p,#alfonslomichels p,#sepanama p,#trataurrutia p,#propaz198286 p,#plancolombia p {
+	width: 95%;
+	height: auto;
+	font-family: Comic Sans MS;
+	color: black;
+	text-align: justify;
+	float: right;
+	margin-top: 5px;
+	margin-right: 2%;
+	font-size: 15px;
+	font-weight:bold;
+}
+#poblamientocolombia h2,#familiaslinguisticas h2,#losguajiros h2,#lostairona h2,#lossinues h2,#golfouraba h2,#rioatrato h2,#riocauca h2,#lospijaos h2,#lossutagaos h2,#losandaki h2,#losmuisca h2,#losguanes h2,#loschitareros h2,#loslaches h2,#lostunebos h2,#llanos h2,#lospastos h2,#losquillacinga h2,#permanente h2,#ocasional h2,#camuisca h2,#loscapitanes h2,#conmuisca h2,#contairona h2,#conantypop h2,#loscaciques h2,#legprehispanica h2,#asgenerales h2,#cazaypesca h2,#minasal h2,#minaesmeralda h2,#agriculturaindigena h2,#cointertribal h2,#comuisca h2,#ceramica h2,#orfebreria h2,#tejido h2,#armuisca h2,#tributacion h2,#sacerdotes h2,#templo h2,#ceremonias h2,#ritos h2,#chiminigagua h2,#chia h2,#bochica h2,#tomagata h2,#chibchacun h2,#nencatacoa h2,#chaquen h2,#guahajoque h2,#sacrificios h2,#culto h2,#chaman h2,#plantasmagicas h2,#capitulacion h2,#compania h2,#expediciones h2,#cabalgatas h2,#sepulturas h2,#funciudades h2,#alonsoojeda h2,#rodrigobastidas h2,#alonsoojeda2 h2,#exguerra h2,#juan2 h2,#alonso h2,#oceanopacifico h2,#castillaoro h2,#gobrodrigo h2,#gobpedro h2,#gobgarcia h2,#gobfernandez h2,#gobalonso h2,#santamaria h2,#gobgonzalo h2,#gobheredia h2,#gobjuan h2,#gobsantacruz h2,#gobheredia2 h2,#gobherediault h2,#expedicion1 h2,#funcali h2,#belalcazar h2,#funpasto h2,#gobrio h2,#gobpopayan h2,#funantioquia h2,#finpopayan h2,#viajejuan h2,#expjorge h2,#exjimenez h2,#santafe h2,#velez h2,#dominacion h2,#jeronimo h2,#alonsoluis h2,#armendariz h2,#nuevas h2,#gobernador h2,#cabildos h2,#establecimiento h2,#legislacion h2,#generales h2,#repartimientos h2,#encomienda h2,#servicio h2,#esclavitud h2,#reptierra h2,#comunales h2,#ejidos h2,#propios h2,#resguardos h2,#patronato h2,#diocesis h2,#misiones h2,#jesus h2,#inquisicion h2,#encomenderos h2,#noencomenderos h2,#vecinos h2,#estantes h2,#indios h2,#centralismo h2,#reglamentarismo h2,#intervencionismo h2,#uniformidad h2,#casuismo h2,#burocratismo h2,#concentracion h2,#control h2,#conflictos h2,#monarquia h2,#real h2,#contratacion h2,#consejo h2,#audiencias h2,#oidores h2,#acuerdos h2,#audiencia h2,#presidente h2,#presidencia h2,#gobernaciones h2,#virreyes h2,#virreinato h2,#primer h2,#segundo h2,#intendente h2,#regencia h2,#consulado h2,#alcaldes h2,#cabildo h2,#residencia h2,#visita h2,#publicos h2,#futuras h2,#salarios h2,#ascensos h2,#virre h2,#regentes h2,#pacificador h2,#municipal h2,#fuero h2,#siete h2,#jusgo h2,#toro h2,#novisima h2,#indiano h2,#aspgenerales h2,#oro h2,#plata h2,#minas h2,#laagricultura h2,#comerciantes h2,#mercaderes h2,#tratantes h2,#ropascastilla h2,#ropastierra h2,#flotas h2,#asientos h2,#contrabando h2,#interno h2,#artesania h2,#esclavitudnegra h2,#mita h2,#concierto h2,#peonaje h2,#obrajes h2,#rentas h2,#azogue h2,#sellado h2,#aguardiente h2,#tabaco h2,#naipes h2,#polvora h2,#lamineria h2,#alcomercio h2,#comexterior h2,#lagricultura h2,#posicion h2,#alclero h2,#tributo h2,#marca h2,#donativos h2,#cargos h2,#ingresos h2,#apropiacion h2,#tierraindios h2,#hacienda h2,#plantacion h2,#estancias h2,#baldios h2,#politicas h2,#reglamento h2,#botanica h2,#eutropelica h2,#buengusto h2,#filantropica h2,#religiosas h2,#literariareli h2,#escuelas h2,#universidad h2,#educativo h2,#reforma h2,#losespanoles h2,#loscriollos h2,#mestizos h2,#mulatos h2,#zambos h2,#losindios h2,#negrosesclavos h2,#comuneros h2,#cimarrones h2,#lasciudades h2,#lasvillas h2,#loslugares h2,#losasientos h2,#elsitio h2,#reales h2,#asientominas h2,#rancheria h2,#palenques h2,#pueblos h2,#revolucionario h2,#invasion h2,#impacto h2,#reborbonicas h2,#elitecriollo h2,#critica h2,#ilustrados h2,#solidaridad h2,#regionales h2,#espanola h2,#americano h2,#boba h2,#reconquista h2,#pacificadoras h2,#terror h2,#guepatriotas h2,#hilario h2,#deneiva h2,#sabana h2,#casanare h2,#procasanare h2,#ejerlibertador h2,#apoyomonarquia h2,#continuidad h2,#rebelioncab h2,#juntasuprema h2,#indeprovincias h2,#provinciasunidas h2,#grupos1 h2,#consejo1 h2,#federalismo h2,#presidentes1 h2,#derrotaprovincias h2,#conguerra h2,#conpurificacion h2,#conpermanente h2,#secuestros h2,#resinquisicion h2,#castigos h2,#conautoridades h2,#republicacolombia h2,#cadiz h2,#fernando7 h2,#angostura h2,#aspectosgeneral h2,#lasmineria h2,#lasagricultura h2,#elcomercio h2,#formastrabajo h2,#losimpuestos h2,#emprestitos h2,#normasdeuda h2,#factores h2,#tierindios h2,#crishacienda h2,#svicepresidenciasan h2,#rebelionpaez h2,#rebelionecuador h2,#facultadesextra h2,#convocatoriaocana h2,#santanderbolivar h2,#presibolivar h2,#dicbolivar h2,#disolucion h2,#dicbolivariana h2,#gob1819 h2,#concucuta h2,#conscucuta h2,#legissantander h2,#consbolivia h2,#convencionocana h2,#legbolivar h2,#constitucion1830 h2,#herenciaeco h2,#medidasextra h2,#formastrabajos h2,#ratificaciontabaco h2,#impuestosgran h2,#desemprestitos h2,#tierrasres h2,#mayorazgos h2,#congrecucuta h2,#boli1826 h2,#pobcolombia h2,#abolicionmonas h2,#abolicioninqui h2,#opivaticano h2,#conspatronato h2,#leypatronato h2,#relestado h2,#fueroecle h2,#sociedabibli h2,#educaciongran h2,#newgranada h2,#congranadina h2,#esnewgranada h2,#escolombia h2,#gob18321884 h2,#civimili h2,#libeconser h2,#refmedio h2,#guesupremos h2,#guerr1851 h2,#golpmelo h2,#rebelmosquera h2,#guer1877 h2,#federalismos h2,#estadnewgranada h2,#confederagrana h2,#estnuevgranad h2,#estadcolombi h2,#herecolonia h2,#constitucione h2,#mineriasxix h2,#agricxix h2,#comexix h2,#artesaniaxix h2,#prindustriales h2,#formtrabaj h2,#finestabaco h2,#aboldiezmo h2,#findirecta h2,#suptierras h2,#abolresguard h2,#latifundio h2,#redecensos h2,#polieconomic h2,#pobsigloxix h2,#navapor h2,#viascomunicacion h2,#anticlericales h2,#iglepartidos h2,#refclesiasticas h2,#sepiglesiaestad h2,#anticlericalesmosq h2,#probreligioso h2,#edugobsantand h2,#edugobradical h2,#terraneogranadin h2,#comerneogranadin h2,#artenewgranad h2,#opoliberal h2,#proypolitico h2,#logobierno h2,#secparlibera h2,#secparconservad h2,#coalicipoliti h2,#Guer188586 h2,#Guer1895 h2,#mildias h2,#creapoli h2,#lacrisis h2,#logobernant h2,#constituc1886 h2,#leydprensa h2,#leydcaballos h2,#comeresterege h2,#prodexporege h2,#creacindustrirege h2,#formatrabarege h2,#hacipublicarege h2,#propiedtierrarege h2,#politeconorege h2,#navriomagrege h2,#crisferrocarege h2,#insteconorege h2,#agrecatlica h2,#elconcordat h2,#educaregerera h2,#repconservador h2,#repliberal h2,#laviolenci h2,#frentenaciona h2,#posfrentenacion h2,#connacional h2,#transit1909 h2,#unirepublica h2,#joseconcha h2,#marcosuarez h2,#pedronelospin h2,#miabadimendez h2,#enriqolaher h2,#alflopezpum h2,#edusantos h2,#alflopezpum2 h2,#alblleracamarg h2,#mariospinaper h2,#laureanogome h2,#gusrojpinill h2,#frenaciona h2,#alfmichelsen h2,#belbetancourt h2,#virgibarcovar h2,#cesgavtruj h2,#ernesampizan h2,#andpastarng h2,#alvaruribe h2,#gobernsiglxx h2,#partdoeconmico h2,#libelicista h2,#cirrafaurib h2,#bloqliber h2,#libercivilis h2,#liberlopista h2,#libersantist h2,#libergaitanist h2,#elmrl h2,#nueliberalism h2,#conconservado h2,#losnacion h2,#conlaureanis h2,#conalzatist h2,#conospinist h2,#unirepublicn h2,#losromanist h2,#uninacionl h2,#partsociali h2,#socrevolucion h2,#partcomunist h2,#launir h2,#tercefuerz h2,#guerrcolperu h2,#asaconst1905 h2,#asaconst1910 h2,#refcons1910 h2,#gobiunirepublic h2,#leyheroik h2,#refconst1936 h2,#ley2001936 h2,#ley1001944 h2,#ley61945 h2,#proyeconst1953 h2,#constituc1991 h2,#econo19041919 h2,#econo19201930 h2,#despue1930 h2,#Ecocafeter h2,#sectagrico h2,#laganader h2,#tecnagricol h2,#interestacamp h2,#campafoment h2,#exportbanan h2,#exportpetro h2,#industriainic h2,#industria30 h2,#caracindustrial h2,#rafreyes h2,#cepalinas h2,#polcambiar h2,#polexport h2,#aperecon h2,#aperecongaviri h2,#reconomica h2,#medtrnsport h2,#bancentral h2,#bancrepublic h2,#cajagraria h2,#bancafeter h2,#banadero h2,#banagricol h2,#banpopul h2,#sociagricolomb h2,#federcafeter h2,#landi h2,#lapen h2,#elidema h2,#elinderena h2,#elincora h2,#eldri h2,#elhimat h2,#minisagricult h2,#ministmeambient h2,#fonnacdcafe h2,#fomenindustria h2,#credicterrito h2,#ierepconservador h2,#iereplibera h2,#ielaviolenci h2,#iefrentnaciona h2,#huelguisxx h2,#enriqolayaherr h2,#alfonslopez1 h2,#eduarsanto h2,#alfonslopez2 h2,#alberllercamar h2,#marianospiper h2,#gustarojaspinill h2,#guillerleovalenc h2,#carllerasrestrep h2,#misapastraborrer h2,#alfolopmichelse h2,#enriolherrer h2,#alfonlopepum h2,#eduardsant h2,#alfonlopepum2 h2,#albertllercama h2,#alberllerrrcamar h2,#guilleleovalenc h2,#misapastborr h2,#alfonslomichels h2,#sepanama h2,#trataurrutia h2,#propaz198286 h2,#plancolombia h2 {
+	width: 100%;
+	height: auto;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial,' sans-serif';
+	color: #f1c40f;
+	font-size: 1.1em;
+	text-align: center;
+	background-color: rgba(8,16,163,1.00);
+	padding-bottom: 3px;
+	font-weight: bold;
+}
+.enlace{
+	font-size: 20px;
+	text-decoration-color: black;
+	text-decoration:underline;
+	color: #BF9C01;
+}
+#imagen{
+	float: left;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	visibility: visible;
+}
+#imagen img{
+	width: 100%;
+	height: 100%;
+	float: left;
+	border-bottom-color: black;
+}
+#informacion {
+	width: 100%;
+	text-align: left;
+	position: absolute;
+	top: 51%;
+	color:white;
+	background-color:rgba(200,200,200,0.1);	
+}
+#informacion p {
+    font-size: 14px;
+}
+#info  {
+	background-color: transparent;
+	float: right;
+	position: relative;
+	bottom:-85%;
+}
+#info img{
+	float: right;
+	position: relative;
+	
+}
+#informacion1{
+	width: 90%;
+	background-color: transparent;
+	text-align: left;
+	position: absolute;
+	left: 4%;
+	top: 1%;
+	color: white;
+}
+#informacion1 p{
+	font-size: 18px;
+}
+#informacion1 b{
+	color:rgba(212,198,7,1.00);
+}
+#informacion1 a{
+	color:rgba(255,237,7,0.80);
+	font-size: 16px;
+}
+#informacion a{
+	color:blue;
+}
+
+#info1 {
+	float: left;
+	position: relative;
+	bottom: 9%;
+	left: 69%;
+	}
+	#info1 img{
+	}
+
+@media screen and (min-width: 231px) and (max-width: 320px) {
+	#principal{
+   
+	}
+	#encabezado{
+    width: 100%;
+    border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	margin-left: -1%;
+	}
+	#medio{
+    width: 100%;
+    
+	margin-left: -1%;
+	}
+	#final{
+    width: 100%;
+    border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	margin-left: -1%;
+	margin-top: 2.7%;
+	}
+	#seleccionar{
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#imagen{
+	width: 100%;
+	height: 99.7%;
+	float: left;
+		left: 4%;
+}
+	#imagen img{
+	width: 100%;
+	height: 100%;
+	float: right;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 370px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {
+	
+	height: 369px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+
+}
+	#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+	height: 369px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#piedepagina img {
+	float: right;
+	width: 20%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 92%;
+}
+	#informacion1 p{
+	font-size: 14px;
+}
+	#informacion{
+	width: 99%;
+	top: 58%;
+		left: -1.5%;
+}
+	#informacion p{
+	font-size: 11px;
+}
+	#info {
+		bottom: -90%;
+	}
+	#info img{
+		width: 80%;
+	}
+}
+
+@media screen  and (min-width: 321px) and (max-width: 414px) {
+	#principal{
+   
+	}
+	#encabezado{
+    width: 100%;
+    border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	margin-left: -1%;
+	}
+	#medio{
+    width: 100%;
+	}
+	#final{
+    width: 100%;
+    border-left: 5px outset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 5px outset rgba(152,148,148,1.00);
+	margin-left: -1%;
+	margin-top: 2.3%;
+	}
+	#seleccionar{
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#imagen{
+	width: 100%;
+	height: 99.7%;
+	float: left;
+		left: 1.8%;
+}
+	#imagen img{
+	width: 100%;
+	height: 100%;
+	float: right;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 370px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {	
+	height: 370px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+		left: -1%;
+}
+	#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+	height: 370px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	left: -1%;
+}
+	#piedepagina img {
+	float: right;
+	width: 20%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 92%;
+		top: 5%;
+}
+	#informacion1 p{
+	font-size: 15px;
+}
+	#informacion{
+	width: 98%;
+	top: 62%;
+		left: -1%;
+}
+	#informacion p{
+	font-size: 12px;
+}
+	#info {
+		bottom:-90%;
+	}
+	#info img{
+		width: 80%;
+	}
+
+}
+
+@media screen  and (min-width: 415px) and (max-width: 640px) {
+	#principal{
+   
+	}
+	#encabezado{
+    width: 100%;
+    border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	margin-left: -1%;
+	}
+	#medio{
+    width: 100%;
+	margin-left: -1%;
+	}
+	#final{
+    border-left: 5px outset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 5px outset rgba(152,148,148,1.00);
+	margin-left: -1%;
+	margin-top: 1.8%;
+	}
+	#seleccionar{
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#imagen{
+	width: 100%;
+	height: 99.7%;
+	float: left;
+		left: 1.9%;
+}
+	#imagen img{
+	width: 100%;
+	height: 100%;
+	float: right;
+	border-left: 5px outset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 5px outset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 350px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {
+	height: 350px;
+	border-left: 5px outset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 5px outset rgba(152,148,148,1.00);
+}
+	#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+	height: 350px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#piedepagina img {
+	float: right;
+	width: 15%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 92%;
+		top: 3%;
+}
+	#informacion1 p{
+	font-size: 15px;
+}
+	#informacion{
+	width: 99%;
+	top: 71%;
+	margin-left:-0.5%;
+}
+	#informacion p{
+	font-size: 12px;
+}
+	#info {
+		bottom:-90%;
+		
+	}
+	#info img{	
+		width: 80%;
+	}
+}
+
+@media screen  and (min-width: 641px) and (max-width: 799px) {
+	#principal{
+   
+	}
+	#encabezado{
+    width: 100%;
+    border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	margin-left: -1%;
+	}
+	#medio{
+    width: 100%;
+	margin-left: -1%;
+	}
+	#final{
+    border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+	margin-left: -1%;
+	margin-top: 1.1%;
+	}
+	#seleccionar{
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#imagen{
+	width: 100%;
+	height: 99.7%;
+	float: right;
+		
+}
+	#imagen img{
+	width: 100%;
+	height: 100%;
+	float: left;
+	border-left: 5px outset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 3px outset rgba(152,148,148,1.00);
+	border-bottom: 5px outset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 350px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {
+	height: 349px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+}
+	#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+	height: 349px;
+	border-left: 5px inset rgba(152,148,148,1.00);
+	border-right: 5px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 3px inset rgba(152,148,148,1.00);
+	}
+	#piedepagina img {
+	float: right;
+	width: 12%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 92%;
+		top: 4%;
+}
+	#informacion1 p{
+	font-size: 15px;
+}
+	#informacion{
+	width: 99%;
+	top: 72%;
+		left: 1%;
+}
+	#informacion p{
+	font-size: 12px;
+}
+	#info {
+		margin-right: 0.5%;
+		margin-top: -0.5%;
+		bottom:-89%;
+	}
+	#info img{
+		width: 75%;
+	}
+}
+
+@media screen  and (min-width: 800px) and (max-width: 966px) {
+	#principal{
+   
+	}
+	#encabezado{
+    width: 80%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	}
+	
+	#seleccionar{
+	width: 80%;
+	margin-left: 9%;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	}
+	
+	#medio{
+    width: 100%;
+	margin-left: -1%;
+	}
+	#final{
+    width: 100%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+	margin-left: -1%;
+	margin-top: 1.7%;
+	}
+	#imagen{
+	width: 100%;
+	height: 96%;
+	float: right;
+}
+	#imagen img{
+	width: 80%;
+	height: 100%;
+	float: left;
+	margin-left: 10%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 320px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {
+	
+	height: 319px;
+}
+	#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+		height: 319px;
+	}
+	#piedepagina img {
+	float: right;
+	width: 10%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 80%;
+	margin-left: 10%;
+		top: 4%;
+}
+	#informacion1 p{
+}
+	#informacion{
+	width: 80%;
+	top: 62%;
+	left: 11.3%;
+}
+	#informacion p{
+}
+	#info {
+		right: 10%
+	}
+	#info img{
+	}
+	#info1 {
+		margin-top: -3%;
+		
+	}
+	#info1 img{
+	}
+}
+
+@media screen  and (min-width: 967px) and (max-width: 1023px) {
+	#principal{
+   
+	}
+	#encabezado{
+    width: 80%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	}
+	#seleccionar{
+	width: 80%;
+	margin-left: 9%;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	}
+	
+	#medio{
+    width: 100%; 
+	margin-left: -1%;
+	}
+	#final{
+    width: 100%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+	margin-left: -1%;
+	margin-top: 1.6%;
+	}
+	#imagen{
+	width: 100%;
+	height: 96%;
+	float: left;
+}
+	#imagen img{
+	width: 80%;
+	height: 100%;
+	float: left;
+	margin-left: 10%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 320px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {
+	height: 319px;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+}
+	#familiaslinguisticas,#losguajiros,#lostairona,#lossinues,#golfouraba,#rioatrato,#riocauca,#lospijaos,#lossutagaos,#losandaki,#losmuisca,#losguanes,#loschitareros,#loslaches,#lostunebos,#llanos,#lospastos,#losquillacinga,#permanente,#ocasional,#camuisca,#loscapitanes,#conmuisca,#contairona,#conantypop,#loscaciques,#legprehispanica,#asgenerales,#cazaypesca,#minasal,#minaesmeralda,#agriculturaindigena,#cointertribal,#comuisca,#ceramica,#orfebreria,#tejido,#armuisca,#tributacion,#sacerdotes,#templo,#ceremonias,#ritos,#chiminigagua,#chia,#bochica,#tomagata,#chibchacun,#nencatacoa,#chaquen,#guahajoque,#sacrificios,#culto,#chaman,#plantasmagicas,#capitulacion,#compania,#expediciones,#cabalgatas,#sepulturas,#funciudades,#alonsoojeda,#rodrigobastidas,#alonsoojeda2,#exguerra,#juan2,#alonso,#oceanopacifico,#castillaoro,#gobrodrigo,#gobpedro,#gobgarcia,#gobfernandez,#gobalonso,#santamaria,#gobgonzalo,#gobheredia,#gobjuan,#gobsantacruz,#gobheredia2,#gobherediault,#expedicion1,#funcali,#belalcazar,#funpasto,#gobrio,#gobpopayan,#funantioquia,#finpopayan,#viajejuan,#expjorge,#exjimenez,#santafe,#velez,#dominacion,#jeronimo,#alonsoluis,#armendariz,#nuevas,#gobernador,#cabildos,#establecimiento,#legislacion,#generales,#repartimientos,#encomienda,#servicio,#esclavitud,#reptierra,#comunales,#ejidos,#propios,#resguardos,#patronato,#diocesis,#misiones,#jesus,#inquisicion,#encomenderos,#noencomenderos,#vecinos,#estantes,#indios,#centralismo,#reglamentarismo,#intervencionismo,#uniformidad,#casuismo,#burocratismo,#concentracion,#control,#conflictos,#monarquia,#real,#contratacion,#consejo,#audiencias,#oidores,#acuerdos,#audiencia,#presidente,#presidencia,#gobernaciones,#virreyes,#virreinato,#primer,#segundo,#intendente,#regencia,#consulado,#alcaldes,#cabildo,#residencia,#visita,#publicos,#futuras,#salarios,#ascensos,#virre,#regentes,#pacificador,#municipal,#fuero,#siete,#jusgo,#toro,#novisima,#indiano,#aspgenerales,#oro,#plata,#minas,#laagricultura,#comerciantes,#mercaderes,#tratantes,#ropascastilla,#ropastierra,#flotas,#asientos,#contrabando,#interno,#artesania,#esclavitudnegra,#mita,#concierto,#peonaje,#obrajes,#rentas,#azogue,#sellado,#aguardiente,#tabaco,#naipes,#polvora,#lamineria,#alcomercio,#comexterior,#lagricultura,#posicion,#alclero,#tributo,#marca,#donativos,#cargos,#ingresos,#apropiacion,#tierraindios,#hacienda,#plantacion,#estancias,#baldios,#politicas,#reglamento,#botanica,#eutropelica,#buengusto,#filantropica,#religiosas,#literariareli,#escuelas,#universidad,#educativo,#reforma,#losespanoles,#loscriollos,#mestizos,#mulatos,#zambos,#losindios,#negrosesclavos,#comuneros,#cimarrones,#lasciudades,#lasvillas,#loslugares,#losasientos,#elsitio,#reales,#asientominas,#rancheria,#palenques,#pueblos,#revolucionario,#invasion,#impacto,#reborbonicas,#elitecriollo,#critica,#ilustrados,#solidaridad,#regionales,#espanola,#americano,#boba,#reconquista,#pacificadoras,#terror,#guepatriotas,#hilario,#deneiva,#sabana,#casanare,#procasanare,#ejerlibertador,#apoyomonarquia,#continuidad,#rebelioncab,#juntasuprema,#indeprovincias,#provinciasunidas,#grupos1,#consejo1,#federalismo,#presidentes1,#derrotaprovincias,#conguerra,#conpurificacion,#conpermanente,#secuestros,#resinquisicion,#castigos,#conautoridades,#republicacolombia,#cadiz,#fernando7,#angostura,#aspectosgeneral,#lasmineria,#lasagricultura,#elcomercio,#formastrabajo,#losimpuestos,#emprestitos,#normasdeuda,#factores,#tierindios,#crishacienda,#svicepresidenciasan,#rebelionpaez,#rebelionecuador,#facultadesextra,#convocatoriaocana,#santanderbolivar,#presibolivar,#dicbolivar,#disolucion,#dicbolivariana,#gob1819,#concucuta,#conscucuta,#legissantander,#consbolivia,#convencionocana,#legbolivar,#constitucion1830,#herenciaeco,#medidasextra,#formastrabajos,#ratificaciontabaco,#impuestosgran,#desemprestitos,#tierrasres,#mayorazgos,#congrecucuta,#boli1826,#pobcolombia,#abolicionmonas,#abolicioninqui,#opivaticano,#conspatronato,#leypatronato,#relestado,#fueroecle,#sociedabibli,#educaciongran,#newgranada,#congranadina,#esnewgranada,#escolombia,#gob18321884,#civimili,#libeconser,#refmedio,#guesupremos,#guerr1851,#golpmelo,#rebelmosquera,#guer1877,#federalismos,#estadnewgranada,#confederagrana,#estnuevgranad,#estadcolombi,#herecolonia,#constitucione,#mineriasxix,#agricxix,#comexix,#artesaniaxix,#prindustriales,#formtrabaj,#finestabaco,#aboldiezmo,#findirecta,#suptierras,#abolresguard,#latifundio,#redecensos,#polieconomic,#pobsigloxix,#navapor,#viascomunicacion,#anticlericales,#iglepartidos,#refclesiasticas,#sepiglesiaestad,#anticlericalesmosq,#probreligioso,#edugobsantand,#edugobradical,#terraneogranadin,#comerneogranadin,#artenewgranad,#opoliberal,#proypolitico,#logobierno,#secparlibera,#secparconservad,#coalicipoliti,#Guer188586,#Guer1895,#mildias,#creapoli,#lacrisis,#logobernant,#constituc1886,#leydprensa,#leydcaballos,#comeresterege,#prodexporege,#creacindustrirege,#formatrabarege,#hacipublicarege,#propiedtierrarege,#politeconorege,#navriomagrege,#crisferrocarege,#insteconorege,#agrecatlica,#elconcordat,#educaregerera,#repconservador,#repliberal,#laviolenci,#frentenaciona,#posfrentenacion,#connacional,#transit1909,#unirepublica,#joseconcha,#marcosuarez,#pedronelospin,#miabadimendez,#enriqolaher,#alflopezpum,#edusantos,#alflopezpum2,#alblleracamarg,#mariospinaper,#laureanogome,#gusrojpinill,#frenaciona,#alfmichelsen,#belbetancourt,#virgibarcovar,#cesgavtruj,#ernesampizan,#andpastarng,#alvaruribe,#gobernsiglxx,#partdoeconmico,#libelicista,#cirrafaurib,#bloqliber,#libercivilis,#liberlopista,#libersantist,#libergaitanist,#elmrl,#nueliberalism,#conconservado,#losnacion,#conlaureanis,#conalzatist,#conospinist,#unirepublicn,#losromanist,#uninacionl,#partsociali,#socrevolucion,#partcomunist,#launir,#tercefuerz,#guerrcolperu,#asaconst1905,#asaconst1910,#refcons1910,#gobiunirepublic,#leyheroik,#refconst1936,#ley2001936,#ley1001944,#ley61945,#proyeconst1953,#constituc1991,#econo19041919,#econo19201930,#despue1930,#Ecocafeter,#sectagrico,#laganader,#tecnagricol,#interestacamp,#campafoment,#exportbanan,#exportpetro,#industriainic,#industria30,#caracindustrial,#rafreyes,#cepalinas,#polcambiar,#polexport,#aperecon,#aperecongaviri,#reconomica,#medtrnsport,#bancentral,#bancrepublic,#cajagraria,#bancafeter,#banadero,#banagricol,#banpopul,#sociagricolomb,#federcafeter,#landi,#lapen,#elidema,#elinderena,#elincora,#eldri,#elhimat,#minisagricult,#ministmeambient,#fonnacdcafe,#fomenindustria,#credicterrito,#ierepconservador,#iereplibera,#ielaviolenci,#iefrentnaciona,#huelguisxx,#enriqolayaherr,#alfonslopez1,#eduarsanto,#alfonslopez2,#alberllercamar,#marianospiper,#gustarojaspinill,#guillerleovalenc,#carllerasrestrep,#misapastraborrer,#alfolopmichelse,#enriolherrer,#alfonlopepum,#eduardsant,#alfonlopepum2,#albertllercama,#alberllerrrcamar,#guilleleovalenc,#misapastborr,#alfonslomichels,#sepanama,#trataurrutia,#propaz198286,#plancolombia {
+	height: 319px;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+}
+	#piedepagina img {
+	float: right;
+	width: 9%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 80%;
+	margin-left: 10%;
+		top: 3%;
+}
+	#informacion1 p{
+}
+	#informacion{
+	width: 80%;
+	top: 68%;
+	left: 11.2%;
+}
+	#informacion p{
+}
+	#info {
+		right: 10%;
+	}
+	#info img{
+	}
+}
+
+
+@media screen  and (min-width: 1024px) {
+		#principal{
+   
+	}
+	#encabezado{
+    width: 80%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 10px outset rgba(152,148,148,1.00);
+	border-bottom: 5px inset rgba(152,148,148,1.00);
+	float: left;
+	position: relative;
+	background-color: #fff;
+	}
+	#seleccionar{
+	width: 80%;
+	margin-left: 9%;
+	border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	}
+	
+	#medio{
+    width: 100%;
+    
+	margin-left: -1%;
+	}
+	#final{
+    width: 100%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+	margin-left: -1%;
+		margin-top: 1.4%;
+	}
+	#imagen{
+	width: 100%;
+	height: 96%;
+	float: left;
+}
+	#imagen img{
+	width: 80%;
+	height: 100%;
+	float: left;
+	margin-left: 10%;
+    border-left: 10px inset rgba(152,148,148,1.00);
+	border-right: 10px outset rgba(152,148,148,1.00);
+	border-top: 5px outset rgba(152,148,148,1.00);
+	border-bottom: 10px inset rgba(152,148,148,1.00);
+}
+	#menuprincipal {
+	width: 100%;
+	height: 450px;
+	float: left;
+	text-align: left;
+	position: relative;
+	background-color:transparent;
+	color: transparent;
+}
+	#poblamientocolombia {
+
+}
+	#piedepagina img {
+	float: right;
+	width: 8%;
+	position: relative;
+	margin-bottom: 1%;
+}
+	#informacion1{
+	width: 80%;
+	margin-left: 10%;
+		top: 4%;
+}
+	#informacion1 p{
+}
+	#informacion{
+	width: 80%;
+	top: 76%;
+	left: 11%;
+}
+	#informacion p{
+}
+	#info {
+		right: 10%;
+		margin-top: 1%;
+	}
+	#info img{
+	}
+	#info1 {
+	}
+	#info1 img{
+	}
+	
+}
+
+@media screen  and (max-width: 640px) {
+	.periodoprehispaniconocel {
+	display: none;
+	}	
+	.periodoprehispanico {
+	display: block;
+}
+}
