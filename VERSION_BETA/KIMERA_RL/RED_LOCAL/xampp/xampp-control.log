@@ -1,0 +1,491 @@
+08:58:49 p.m.  [main] 	Initializing Control Panel
+08:58:49 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+08:58:49 p.m.  [main] 	XAMPP Version: 5.6.14
+08:58:49 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+08:58:49 p.m.  [main] 	You are not running with administrator rights! This will work for
+08:58:49 p.m.  [main] 	most application stuff but whenever you do something with services
+08:58:49 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+08:58:49 p.m.  [main] 	about running this application with administrator rights!
+08:58:49 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+08:58:49 p.m.  [main] 	Checking for prerequisites
+08:58:54 p.m.  [main] 	All prerequisites found
+08:58:54 p.m.  [main] 	Initializing Modules
+08:58:54 p.m.  [main] 	Starting Check-Timer
+08:58:54 p.m.  [main] 	Control Panel Ready
+08:59:31 p.m.  [Apache] 	Attempting to start Apache app...
+08:59:31 p.m.  [Apache] 	Status change detected: running
+08:59:32 p.m.  [Apache] 	Status change detected: stopped
+08:59:32 p.m.  [Apache] 	Error: Apache shutdown unexpectedly.
+08:59:32 p.m.  [Apache] 	This may be due to a blocked port, missing dependencies, 
+08:59:32 p.m.  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+08:59:32 p.m.  [Apache] 	Press the Logs button to view error logs and check
+08:59:32 p.m.  [Apache] 	the Windows Event Viewer for more clues
+08:59:32 p.m.  [Apache] 	If you need more help, copy and post this
+08:59:32 p.m.  [Apache] 	entire log window on the forums
+08:59:49 p.m.  [mysql] 	Attempting to start MySQL app...
+08:59:50 p.m.  [mysql] 	Status change detected: running
+08:59:50 p.m.  [mysql] 	Status change detected: stopped
+08:59:50 p.m.  [mysql] 	Error: MySQL shutdown unexpectedly.
+08:59:50 p.m.  [mysql] 	This may be due to a blocked port, missing dependencies, 
+08:59:50 p.m.  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+08:59:50 p.m.  [mysql] 	Press the Logs button to view error logs and check
+08:59:50 p.m.  [mysql] 	the Windows Event Viewer for more clues
+08:59:50 p.m.  [mysql] 	If you need more help, copy and post this
+08:59:50 p.m.  [mysql] 	entire log window on the forums
+08:59:56 p.m.  [main] 	Deinitializing Modules
+08:59:56 p.m.  [main] 	Deinitializing Control Panel
+
+09:00:36 p.m.  [main] 	Initializing Control Panel
+09:00:36 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+09:00:36 p.m.  [main] 	XAMPP Version: 5.6.14
+09:00:36 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:00:36 p.m.  [main] 	You are not running with administrator rights! This will work for
+09:00:36 p.m.  [main] 	most application stuff but whenever you do something with services
+09:00:36 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+09:00:36 p.m.  [main] 	about running this application with administrator rights!
+09:00:36 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+09:00:36 p.m.  [main] 	Checking for prerequisites
+09:00:36 p.m.  [main] 	All prerequisites found
+09:00:36 p.m.  [main] 	Initializing Modules
+09:00:36 p.m.  [main] 	Starting Check-Timer
+09:00:36 p.m.  [main] 	Control Panel Ready
+09:00:39 p.m.  [Apache] 	Attempting to start Apache app...
+09:00:40 p.m.  [Apache] 	Status change detected: running
+09:00:49 p.m.  [mysql] 	Attempting to start MySQL app...
+09:00:50 p.m.  [mysql] 	Status change detected: running
+09:01:51 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:01:51 p.m.  [mysql] 	Status change detected: stopped
+09:01:52 p.m.  [Apache] 	Attempting to stop Apache (PID: 3876)
+09:01:52 p.m.  [Apache] 	Attempting to stop Apache (PID: 3684)
+09:01:53 p.m.  [Apache] 	Status change detected: stopped
+09:02:02 p.m.  [main] 	Deinitializing Modules
+09:02:02 p.m.  [main] 	Deinitializing Control Panel
+
+09:03:25 p.m.  [main] 	Initializing Control Panel
+09:03:25 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+09:03:25 p.m.  [main] 	XAMPP Version: 5.6.14
+09:03:25 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:03:25 p.m.  [main] 	You are not running with administrator rights! This will work for
+09:03:25 p.m.  [main] 	most application stuff but whenever you do something with services
+09:03:25 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+09:03:25 p.m.  [main] 	about running this application with administrator rights!
+09:03:25 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+09:03:25 p.m.  [main] 	Checking for prerequisites
+09:03:25 p.m.  [main] 	All prerequisites found
+09:03:25 p.m.  [main] 	Initializing Modules
+09:03:25 p.m.  [main] 	Enabling autostart for module "Apache"
+09:03:25 p.m.  [main] 	Enabling autostart for module "MySQL"
+09:03:25 p.m.  [main] 	Starting Check-Timer
+09:03:25 p.m.  [main] 	Control Panel Ready
+09:03:25 p.m.  [Apache] 	Autostart active: starting...
+09:03:25 p.m.  [Apache] 	Attempting to start Apache app...
+09:03:25 p.m.  [mysql] 	Autostart active: starting...
+09:03:25 p.m.  [mysql] 	Attempting to start MySQL app...
+09:03:26 p.m.  [Apache] 	Status change detected: running
+09:03:26 p.m.  [mysql] 	Status change detected: running
+09:03:41 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:03:41 p.m.  [mysql] 	Status change detected: stopped
+09:03:43 p.m.  [Apache] 	Attempting to stop Apache (PID: 2244)
+09:03:43 p.m.  [Apache] 	Attempting to stop Apache (PID: 496)
+09:03:43 p.m.  [Apache] 	Status change detected: stopped
+09:04:43 p.m.  [main] 	Deinitializing Modules
+09:04:43 p.m.  [main] 	Deinitializing Control Panel
+
+09:02:09 p.m.  [main] 	Initializing Control Panel
+09:02:09 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+09:02:09 p.m.  [main] 	XAMPP Version: 5.6.14
+09:02:09 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:02:09 p.m.  [main] 	You are not running with administrator rights! This will work for
+09:02:09 p.m.  [main] 	most application stuff but whenever you do something with services
+09:02:09 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+09:02:09 p.m.  [main] 	about running this application with administrator rights!
+09:02:09 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+09:02:09 p.m.  [main] 	Checking for prerequisites
+09:02:09 p.m.  [main] 	All prerequisites found
+09:02:09 p.m.  [main] 	Initializing Modules
+09:02:09 p.m.  [main] 	Starting Check-Timer
+09:02:09 p.m.  [main] 	Control Panel Ready
+09:02:11 p.m.  [Apache] 	Attempting to start Apache app...
+09:02:12 p.m.  [Apache] 	Status change detected: running
+09:02:14 p.m.  [mysql] 	Attempting to start MySQL app...
+09:02:15 p.m.  [mysql] 	Status change detected: running
+09:02:26 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:02:27 p.m.  [mysql] 	Status change detected: stopped
+09:02:28 p.m.  [Apache] 	Attempting to stop Apache (PID: 3572)
+09:02:28 p.m.  [Apache] 	Attempting to stop Apache (PID: 3228)
+09:02:28 p.m.  [Apache] 	Status change detected: stopped
+09:03:25 p.m.  [Apache] 	Status change detected: running
+09:03:25 p.m.  [mysql] 	Status change detected: running
+09:03:41 p.m.  [mysql] 	Status change detected: stopped
+09:03:43 p.m.  [Apache] 	Status change detected: stopped
+09:13:20 p.m.  [main] 	Deinitializing Modules
+09:13:20 p.m.  [main] 	Deinitializing Control Panel
+
+06:49:27 p.m.  [main] 	Initializing Control Panel
+06:49:27 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+06:49:27 p.m.  [main] 	XAMPP Version: 5.6.14
+06:49:27 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+06:49:27 p.m.  [main] 	You are not running with administrator rights! This will work for
+06:49:27 p.m.  [main] 	most application stuff but whenever you do something with services
+06:49:27 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+06:49:27 p.m.  [main] 	about running this application with administrator rights!
+06:49:27 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+06:49:27 p.m.  [main] 	Checking for prerequisites
+06:49:35 p.m.  [main] 	All prerequisites found
+06:49:35 p.m.  [main] 	Initializing Modules
+06:49:35 p.m.  [main] 	Enabling autostart for module "Apache"
+06:49:35 p.m.  [main] 	Enabling autostart for module "MySQL"
+06:49:35 p.m.  [main] 	Starting Check-Timer
+06:49:35 p.m.  [main] 	Control Panel Ready
+06:49:36 p.m.  [Apache] 	Autostart active: starting...
+06:49:36 p.m.  [Apache] 	Attempting to start Apache app...
+06:49:36 p.m.  [mysql] 	Autostart active: starting...
+06:49:36 p.m.  [mysql] 	Attempting to start MySQL app...
+06:49:39 p.m.  [mysql] 	Status change detected: running
+06:49:41 p.m.  [Apache] 	Status change detected: running
+08:19:27 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:19:27 p.m.  [mysql] 	Status change detected: stopped
+08:19:28 p.m.  [Apache] 	Attempting to stop Apache (PID: 1032)
+08:19:28 p.m.  [Apache] 	Attempting to stop Apache (PID: 1268)
+08:19:29 p.m.  [Apache] 	Status change detected: stopped
+08:19:32 p.m.  [Apache] 	Attempting to start Apache app...
+08:19:32 p.m.  [Apache] 	Status change detected: running
+08:19:36 p.m.  [mysql] 	Attempting to start MySQL app...
+08:19:37 p.m.  [mysql] 	Status change detected: running
+08:32:23 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:32:23 p.m.  [mysql] 	Status change detected: stopped
+08:32:24 p.m.  [Apache] 	Attempting to stop Apache (PID: 1456)
+08:32:24 p.m.  [Apache] 	Attempting to stop Apache (PID: 1136)
+08:32:24 p.m.  [Apache] 	Status change detected: stopped
+08:32:27 p.m.  [Apache] 	Attempting to start Apache app...
+08:32:28 p.m.  [Apache] 	Status change detected: running
+08:32:32 p.m.  [mysql] 	Attempting to start MySQL app...
+08:32:33 p.m.  [mysql] 	Status change detected: running
+08:32:46 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:32:46 p.m.  [mysql] 	Status change detected: stopped
+08:32:48 p.m.  [Apache] 	Attempting to stop Apache (PID: 3492)
+08:32:48 p.m.  [Apache] 	Attempting to stop Apache (PID: 3444)
+08:32:48 p.m.  [Apache] 	Status change detected: stopped
+08:32:56 p.m.  [Apache] 	Attempting to start Apache app...
+08:32:56 p.m.  [Apache] 	Status change detected: running
+08:33:03 p.m.  [mysql] 	Attempting to start MySQL app...
+08:33:03 p.m.  [mysql] 	Status change detected: running
+08:35:47 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:35:47 p.m.  [mysql] 	Status change detected: stopped
+08:35:49 p.m.  [Apache] 	Attempting to stop Apache (PID: 2392)
+08:35:49 p.m.  [Apache] 	Attempting to stop Apache (PID: 2440)
+08:35:49 p.m.  [Apache] 	Status change detected: stopped
+08:35:54 p.m.  [Apache] 	Attempting to start Apache app...
+08:35:54 p.m.  [Apache] 	Status change detected: running
+08:35:57 p.m.  [mysql] 	Attempting to start MySQL app...
+08:35:57 p.m.  [mysql] 	Status change detected: running
+08:41:31 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:41:31 p.m.  [mysql] 	Status change detected: stopped
+08:41:32 p.m.  [Apache] 	Attempting to stop Apache (PID: 2752)
+08:41:32 p.m.  [Apache] 	Attempting to stop Apache (PID: 4040)
+08:41:33 p.m.  [Apache] 	Status change detected: stopped
+08:41:36 p.m.  [main] 	Deinitializing Modules
+08:41:36 p.m.  [main] 	Deinitializing Control Panel
+
+09:48:47 p.m.  [main] 	Initializing Control Panel
+09:48:47 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+09:48:47 p.m.  [main] 	XAMPP Version: 5.6.14
+09:48:47 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:48:47 p.m.  [main] 	You are not running with administrator rights! This will work for
+09:48:47 p.m.  [main] 	most application stuff but whenever you do something with services
+09:48:47 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+09:48:47 p.m.  [main] 	about running this application with administrator rights!
+09:48:47 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+09:48:47 p.m.  [main] 	Checking for prerequisites
+09:48:47 p.m.  [main] 	All prerequisites found
+09:48:47 p.m.  [main] 	Initializing Modules
+09:48:47 p.m.  [main] 	Enabling autostart for module "Apache"
+09:48:47 p.m.  [main] 	Enabling autostart for module "MySQL"
+09:48:47 p.m.  [main] 	Starting Check-Timer
+09:48:47 p.m.  [main] 	Control Panel Ready
+09:48:47 p.m.  [Apache] 	Autostart active: starting...
+09:48:47 p.m.  [Apache] 	Attempting to start Apache app...
+09:48:47 p.m.  [mysql] 	Autostart active: starting...
+09:48:47 p.m.  [mysql] 	Attempting to start MySQL app...
+09:48:48 p.m.  [Apache] 	Status change detected: running
+09:48:48 p.m.  [mysql] 	Status change detected: running
+09:51:02 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:51:02 p.m.  [mysql] 	Status change detected: stopped
+09:51:04 p.m.  [Apache] 	Attempting to stop Apache (PID: 2404)
+09:51:04 p.m.  [Apache] 	Attempting to stop Apache (PID: 1924)
+09:51:04 p.m.  [Apache] 	Status change detected: stopped
+09:51:05 p.m.  [main] 	Deinitializing Modules
+09:51:05 p.m.  [main] 	Deinitializing Control Panel
+
+08:10:04 p.m.  [main] 	Initializing Control Panel
+08:10:04 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+08:10:04 p.m.  [main] 	XAMPP Version: 5.6.14
+08:10:04 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+08:10:04 p.m.  [main] 	You are not running with administrator rights! This will work for
+08:10:04 p.m.  [main] 	most application stuff but whenever you do something with services
+08:10:04 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+08:10:04 p.m.  [main] 	about running this application with administrator rights!
+08:10:04 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+08:10:04 p.m.  [main] 	Checking for prerequisites
+08:10:12 p.m.  [main] 	All prerequisites found
+08:10:12 p.m.  [main] 	Initializing Modules
+08:10:12 p.m.  [main] 	Enabling autostart for module "Apache"
+08:10:12 p.m.  [main] 	Enabling autostart for module "MySQL"
+08:10:12 p.m.  [main] 	Starting Check-Timer
+08:10:12 p.m.  [main] 	Control Panel Ready
+08:10:12 p.m.  [Apache] 	Autostart active: starting...
+08:10:12 p.m.  [Apache] 	Attempting to start Apache app...
+08:10:12 p.m.  [mysql] 	Autostart active: starting...
+08:10:12 p.m.  [mysql] 	Attempting to start MySQL app...
+08:10:13 p.m.  [mysql] 	Status change detected: running
+08:10:14 p.m.  [Apache] 	Status change detected: running
+08:33:27 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:33:27 p.m.  [mysql] 	Status change detected: stopped
+08:33:28 p.m.  [Apache] 	Attempting to stop Apache (PID: 1728)
+08:33:28 p.m.  [Apache] 	Attempting to stop Apache (PID: 2060)
+08:33:28 p.m.  [Apache] 	Status change detected: stopped
+08:35:36 p.m.  [Apache] 	Attempting to start Apache app...
+08:35:37 p.m.  [Apache] 	Status change detected: running
+08:35:44 p.m.  [mysql] 	Attempting to start MySQL app...
+08:35:44 p.m.  [mysql] 	Status change detected: running
+09:19:31 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:19:31 p.m.  [mysql] 	Status change detected: stopped
+09:19:35 p.m.  [mysql] 	Attempting to start MySQL app...
+09:19:35 p.m.  [mysql] 	Status change detected: running
+09:28:03 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:28:03 p.m.  [mysql] 	Status change detected: stopped
+09:28:04 p.m.  [Apache] 	Attempting to stop Apache (PID: 3904)
+09:28:04 p.m.  [Apache] 	Attempting to stop Apache (PID: 3840)
+09:28:04 p.m.  [Apache] 	Status change detected: stopped
+09:28:10 p.m.  [Apache] 	Attempting to start Apache app...
+09:28:11 p.m.  [Apache] 	Status change detected: running
+09:28:14 p.m.  [mysql] 	Attempting to start MySQL app...
+09:28:14 p.m.  [mysql] 	Status change detected: running
+10:22:16 p.m.  [mysql] 	Attempting to stop MySQL app...
+10:22:17 p.m.  [mysql] 	Status change detected: stopped
+10:22:18 p.m.  [Apache] 	Attempting to stop Apache (PID: 2116)
+10:22:18 p.m.  [Apache] 	Attempting to stop Apache (PID: 2856)
+10:22:18 p.m.  [Apache] 	Status change detected: stopped
+10:22:20 p.m.  [main] 	Deinitializing Modules
+10:22:20 p.m.  [main] 	Deinitializing Control Panel
+
+07:27:40 p.m.  [main] 	Initializing Control Panel
+07:27:40 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+07:27:40 p.m.  [main] 	XAMPP Version: 5.6.14
+07:27:40 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+07:27:40 p.m.  [main] 	You are not running with administrator rights! This will work for
+07:27:40 p.m.  [main] 	most application stuff but whenever you do something with services
+07:27:40 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+07:27:40 p.m.  [main] 	about running this application with administrator rights!
+07:27:40 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+07:27:40 p.m.  [main] 	Checking for prerequisites
+07:27:46 p.m.  [main] 	All prerequisites found
+07:27:46 p.m.  [main] 	Initializing Modules
+07:27:46 p.m.  [main] 	Enabling autostart for module "Apache"
+07:27:46 p.m.  [main] 	Enabling autostart for module "MySQL"
+07:27:46 p.m.  [main] 	Starting Check-Timer
+07:27:46 p.m.  [main] 	Control Panel Ready
+07:27:47 p.m.  [Apache] 	Autostart active: starting...
+07:27:47 p.m.  [Apache] 	Attempting to start Apache app...
+07:27:47 p.m.  [mysql] 	Autostart active: starting...
+07:27:47 p.m.  [mysql] 	Attempting to start MySQL app...
+07:27:48 p.m.  [mysql] 	Status change detected: running
+07:27:49 p.m.  [Apache] 	Status change detected: running
+07:35:27 p.m.  [mysql] 	Attempting to stop MySQL app...
+07:35:27 p.m.  [mysql] 	Status change detected: stopped
+07:35:29 p.m.  [Apache] 	Attempting to stop Apache (PID: 888)
+07:35:29 p.m.  [Apache] 	Attempting to stop Apache (PID: 1048)
+07:35:29 p.m.  [Apache] 	Status change detected: stopped
+07:35:31 p.m.  [main] 	Deinitializing Modules
+07:35:31 p.m.  [main] 	Deinitializing Control Panel
+
+07:58:59 p.m.  [main] 	Initializing Control Panel
+07:58:59 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+07:58:59 p.m.  [main] 	XAMPP Version: 5.6.14
+07:58:59 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+07:58:59 p.m.  [main] 	You are not running with administrator rights! This will work for
+07:58:59 p.m.  [main] 	most application stuff but whenever you do something with services
+07:58:59 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+07:58:59 p.m.  [main] 	about running this application with administrator rights!
+07:58:59 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+07:58:59 p.m.  [main] 	Checking for prerequisites
+07:59:01 p.m.  [main] 	All prerequisites found
+07:59:01 p.m.  [main] 	Initializing Modules
+07:59:01 p.m.  [main] 	Enabling autostart for module "Apache"
+07:59:01 p.m.  [main] 	Enabling autostart for module "MySQL"
+07:59:01 p.m.  [main] 	Starting Check-Timer
+07:59:01 p.m.  [main] 	Control Panel Ready
+07:59:01 p.m.  [Apache] 	Autostart active: starting...
+07:59:01 p.m.  [Apache] 	Attempting to start Apache app...
+07:59:01 p.m.  [mysql] 	Autostart active: starting...
+07:59:01 p.m.  [mysql] 	Attempting to start MySQL app...
+07:59:02 p.m.  [Apache] 	Status change detected: running
+07:59:02 p.m.  [mysql] 	Status change detected: running
+08:25:16 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:25:17 p.m.  [mysql] 	Status change detected: stopped
+08:25:17 p.m.  [Apache] 	Attempting to stop Apache (PID: 1220)
+08:25:17 p.m.  [Apache] 	Attempting to stop Apache (PID: 1544)
+08:25:18 p.m.  [Apache] 	Status change detected: stopped
+08:25:34 p.m.  [Apache] 	Attempting to start Apache app...
+08:25:34 p.m.  [Apache] 	Status change detected: running
+08:25:39 p.m.  [mysql] 	Attempting to start MySQL app...
+08:25:39 p.m.  [mysql] 	Status change detected: running
+08:35:36 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:35:36 p.m.  [mysql] 	Status change detected: stopped
+08:35:37 p.m.  [Apache] 	Attempting to stop Apache (PID: 3096)
+08:35:37 p.m.  [Apache] 	Attempting to stop Apache (PID: 2720)
+08:35:38 p.m.  [Apache] 	Status change detected: stopped
+08:35:43 p.m.  [Apache] 	Attempting to start Apache app...
+08:35:44 p.m.  [Apache] 	Status change detected: running
+08:35:48 p.m.  [mysql] 	Attempting to start MySQL app...
+08:35:49 p.m.  [mysql] 	Status change detected: running
+08:38:56 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:38:56 p.m.  [mysql] 	Status change detected: stopped
+08:39:01 p.m.  [Apache] 	Attempting to stop Apache (PID: 3600)
+08:39:01 p.m.  [Apache] 	Attempting to stop Apache (PID: 2940)
+08:39:01 p.m.  [Apache] 	Status change detected: stopped
+08:42:39 p.m.  [Apache] 	Attempting to start Apache app...
+08:42:40 p.m.  [Apache] 	Status change detected: running
+08:42:45 p.m.  [mysql] 	Attempting to start MySQL app...
+08:42:45 p.m.  [mysql] 	Status change detected: running
+08:49:46 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:49:47 p.m.  [mysql] 	Status change detected: stopped
+08:49:48 p.m.  [Apache] 	Attempting to stop Apache (PID: 4020)
+08:49:48 p.m.  [Apache] 	Attempting to stop Apache (PID: 1584)
+08:49:48 p.m.  [Apache] 	Status change detected: stopped
+08:49:53 p.m.  [Apache] 	Attempting to start Apache app...
+08:49:54 p.m.  [Apache] 	Status change detected: running
+08:49:58 p.m.  [mysql] 	Attempting to start MySQL app...
+08:49:58 p.m.  [mysql] 	Status change detected: running
+08:53:57 p.m.  [mysql] 	Attempting to stop MySQL app...
+08:53:57 p.m.  [mysql] 	Status change detected: stopped
+08:53:58 p.m.  [Apache] 	Attempting to stop Apache (PID: 568)
+08:53:58 p.m.  [Apache] 	Attempting to stop Apache (PID: 1604)
+08:53:58 p.m.  [Apache] 	Status change detected: stopped
+08:54:07 p.m.  [Apache] 	Attempting to start Apache app...
+08:54:08 p.m.  [Apache] 	Status change detected: running
+08:54:13 p.m.  [mysql] 	Attempting to start MySQL app...
+08:54:14 p.m.  [mysql] 	Status change detected: running
+10:08:13 p.m.  [mysql] 	Attempting to stop MySQL app...
+10:08:13 p.m.  [mysql] 	Status change detected: stopped
+10:08:15 p.m.  [Apache] 	Attempting to stop Apache (PID: 3048)
+10:08:15 p.m.  [Apache] 	Attempting to stop Apache (PID: 3164)
+10:08:16 p.m.  [Apache] 	Status change detected: stopped
+10:08:18 p.m.  [main] 	Deinitializing Modules
+10:08:18 p.m.  [main] 	Deinitializing Control Panel
+
+07:49:15 p.m.  [main] 	Initializing Control Panel
+07:49:15 p.m.  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+07:49:15 p.m.  [main] 	XAMPP Version: 5.6.14
+07:49:15 p.m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+07:49:15 p.m.  [main] 	You are not running with administrator rights! This will work for
+07:49:15 p.m.  [main] 	most application stuff but whenever you do something with services
+07:49:15 p.m.  [main] 	there will be a security dialogue or things will break! So think 
+07:49:15 p.m.  [main] 	about running this application with administrator rights!
+07:49:15 p.m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+07:49:15 p.m.  [main] 	Checking for prerequisites
+07:49:15 p.m.  [main] 	All prerequisites found
+07:49:15 p.m.  [main] 	Initializing Modules
+07:49:15 p.m.  [main] 	Enabling autostart for module "Apache"
+07:49:15 p.m.  [main] 	Enabling autostart for module "MySQL"
+07:49:15 p.m.  [main] 	Starting Check-Timer
+07:49:15 p.m.  [main] 	Control Panel Ready
+07:49:16 p.m.  [Apache] 	Autostart active: starting...
+07:49:16 p.m.  [Apache] 	Attempting to start Apache app...
+07:49:16 p.m.  [mysql] 	Autostart active: starting...
+07:49:16 p.m.  [mysql] 	Attempting to start MySQL app...
+07:49:16 p.m.  [Apache] 	Status change detected: running
+07:49:16 p.m.  [mysql] 	Status change detected: running
+07:56:41 p.m.  [main] 	Executing "c:\kimera_rl\red_local\xampp\"
+09:08:12 p.m.  [mysql] 	Attempting to stop MySQL app...
+09:08:12 p.m.  [mysql] 	Status change detected: stopped
+09:08:14 p.m.  [Apache] 	Attempting to stop Apache (PID: 440)
+09:08:14 p.m.  [Apache] 	Attempting to stop Apache (PID: 856)
+09:08:14 p.m.  [Apache] 	Status change detected: stopped
+09:08:21 p.m.  [Apache] 	Attempting to start Apache app...
+09:08:22 p.m.  [Apache] 	Status change detected: running
+09:08:25 p.m.  [mysql] 	Attempting to start MySQL app...
+09:08:25 p.m.  [mysql] 	Status change detected: running
+10:02:05 p.m.  [mysql] 	Attempting to stop MySQL app...
+10:02:06 p.m.  [mysql] 	Status change detected: stopped
+10:02:07 p.m.  [Apache] 	Attempting to stop Apache (PID: 2972)
+10:02:07 p.m.  [Apache] 	Attempting to stop Apache (PID: 2628)
+10:02:07 p.m.  [Apache] 	Status change detected: stopped
+10:02:09 p.m.  [main] 	Deinitializing Modules
+10:02:09 p.m.  [main] 	Deinitializing Control Panel
+
+9:23:02 p. m.  [main] 	Initializing Control Panel
+9:23:02 p. m.  [main] 	Windows Version:  Enterprise  64-bit
+9:23:02 p. m.  [main] 	XAMPP Version: 5.6.14
+9:23:02 p. m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:23:02 p. m.  [main] 	You are not running with administrator rights! This will work for
+9:23:02 p. m.  [main] 	most application stuff but whenever you do something with services
+9:23:02 p. m.  [main] 	there will be a security dialogue or things will break! So think 
+9:23:02 p. m.  [main] 	about running this application with administrator rights!
+9:23:02 p. m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+9:23:02 p. m.  [main] 	Checking for prerequisites
+9:23:03 p. m.  [main] 	All prerequisites found
+9:23:03 p. m.  [main] 	Initializing Modules
+9:23:03 p. m.  [main] 	Enabling autostart for module "Apache"
+9:23:03 p. m.  [main] 	Enabling autostart for module "MySQL"
+9:23:03 p. m.  [main] 	Starting Check-Timer
+9:23:03 p. m.  [main] 	Control Panel Ready
+9:23:04 p. m.  [Apache] 	Autostart active: starting...
+9:23:04 p. m.  [Apache] 	Attempting to start Apache app...
+9:23:04 p. m.  [mysql] 	Autostart active: starting...
+9:23:04 p. m.  [mysql] 	Attempting to start MySQL app...
+9:23:04 p. m.  [Apache] 	Status change detected: running
+9:23:04 p. m.  [mysql] 	Status change detected: running
+12:20:42 a. m.  [main] 	Deinitializing Modules
+12:20:42 a. m.  [main] 	Deinitializing Control Panel
+
+8:17:48 p. m.  [main] 	Initializing Control Panel
+8:17:48 p. m.  [main] 	Windows Version:  Enterprise  64-bit
+8:17:48 p. m.  [main] 	XAMPP Version: 5.6.14
+8:17:48 p. m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:17:48 p. m.  [main] 	You are not running with administrator rights! This will work for
+8:17:48 p. m.  [main] 	most application stuff but whenever you do something with services
+8:17:48 p. m.  [main] 	there will be a security dialogue or things will break! So think 
+8:17:48 p. m.  [main] 	about running this application with administrator rights!
+8:17:48 p. m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+8:17:48 p. m.  [main] 	Checking for prerequisites
+8:17:48 p. m.  [main] 	All prerequisites found
+8:17:48 p. m.  [main] 	Initializing Modules
+8:17:48 p. m.  [main] 	Enabling autostart for module "Apache"
+8:17:48 p. m.  [main] 	Enabling autostart for module "MySQL"
+8:17:48 p. m.  [main] 	Starting Check-Timer
+8:17:48 p. m.  [main] 	Control Panel Ready
+8:17:49 p. m.  [Apache] 	Autostart active: starting...
+8:17:49 p. m.  [Apache] 	Attempting to start Apache app...
+8:17:49 p. m.  [mysql] 	Autostart active: starting...
+8:17:49 p. m.  [mysql] 	Attempting to start MySQL app...
+8:17:49 p. m.  [Apache] 	Status change detected: running
+8:17:49 p. m.  [mysql] 	Status change detected: running
+12:07:43 a. m.  [main] 	Deinitializing Modules
+12:07:43 a. m.  [main] 	Deinitializing Control Panel
+
+7:08:28 p. m.  [main] 	Initializing Control Panel
+7:08:28 p. m.  [main] 	Windows Version:  Enterprise  64-bit
+7:08:28 p. m.  [main] 	XAMPP Version: 5.6.14
+7:08:28 p. m.  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+7:08:28 p. m.  [main] 	You are not running with administrator rights! This will work for
+7:08:28 p. m.  [main] 	most application stuff but whenever you do something with services
+7:08:28 p. m.  [main] 	there will be a security dialogue or things will break! So think 
+7:08:28 p. m.  [main] 	about running this application with administrator rights!
+7:08:28 p. m.  [main] 	XAMPP Installation Directory: "c:\kimera_rl\red_local\xampp\"
+7:08:28 p. m.  [main] 	Checking for prerequisites
+7:08:29 p. m.  [main] 	All prerequisites found
+7:08:29 p. m.  [main] 	Initializing Modules
+7:08:29 p. m.  [main] 	Enabling autostart for module "Apache"
+7:08:29 p. m.  [main] 	Enabling autostart for module "MySQL"
+7:08:29 p. m.  [main] 	Starting Check-Timer
+7:08:29 p. m.  [main] 	Control Panel Ready
+7:08:29 p. m.  [Apache] 	Autostart active: starting...
+7:08:29 p. m.  [Apache] 	Attempting to start Apache app...
+7:08:29 p. m.  [mysql] 	Autostart active: starting...
+7:08:29 p. m.  [mysql] 	Attempting to start MySQL app...
+7:08:30 p. m.  [Apache] 	Status change detected: running
+7:08:30 p. m.  [mysql] 	Status change detected: running
+10:17:56 p. m.  [main] 	Deinitializing Modules
+10:17:56 p. m.  [main] 	Deinitializing Control Panel
+

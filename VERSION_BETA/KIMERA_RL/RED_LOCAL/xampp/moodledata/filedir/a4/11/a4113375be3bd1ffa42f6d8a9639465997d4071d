@@ -1,0 +1,155 @@
+// question: 1698  name: Iconos de Moodle 1 
+::Iconos de Moodle 1::El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/settings.gif" align="baseline" /> corresponde a &quot;Configuración&quot;{TRUE}
+
+
+// question: 1699  name: Iconos de Moodle 2 
+::Iconos de Moodle 2::El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/delete.gif" align="baseline" /> corresponde a &quot;Seleccionar&quot;{FALSE}
+
+
+// question: 1700  name: Iconos de Moodle 3 
+::Iconos de Moodle 3::El icono de <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/scales.gif" align="baseline" /> corresponde a &quot;Escalas&quot;{TRUE}
+
+
+// question: 1701  name: Icono de Moodle 4 
+::Icono de Moodle 4::El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/help.gif" align="baseline" />  corresponde a &quot;Ayuda&quot;{TRUE}
+
+
+// question: 1702  name: Icono de Moodle 1 
+::Icono de Moodle 1::<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/glosario.gif" align="baseline" /> es un:</p>{
+	=Glosario
+	~Libro o referencia bibliográfica
+	~Manual
+}
+
+
+// question: 1703  name: Iconos de Moodle 2 
+::Iconos de Moodle 2::El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/grades.gif" align="baseline" /> corresponde a:{
+	=Calificaciones
+	~Escalas
+	~Tablas
+}
+
+
+// question: 1704  name: Icono de Moodle 1 
+::Icono de Moodle 1::El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/move.gif" align="baseline" /> sirve para ????? una actividad. Teclee el infinitivo que debe haber en el lugar de los interrogantes. {
+	=%100%mover#
+	=%100%desplazar#
+	=%100%trasladar#
+}
+
+
+// question: 1705  name: Icono de Moodle 2 
+::Icono de Moodle 2::El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/cuestionario.gif" align="baseline" />  es un:.{
+	=%100%cuestionario#
+	=%100%examen#
+	=%100%test#
+	=%100%control#
+}
+
+
+// question: 1706  name: Icono de Moodle 1 
+::Icono de Moodle 1::<p>¿Cuántos foros de profesores existen en un curso?</p>{
+	#1..1#Se encuentra en el cuadro de Administración
+}
+
+
+// question: 1707  name: Icono de Moodle 2 
+::Icono de Moodle 2::¿Cuántas formas hay de activar la edición en Moodle?{
+	#3..3#Desde el botón de edición o desde el menú de Administración o desde el botón "Actualizar Actividad".
+}
+
+
+// question: 1708  name: Icono de Moodle 3 
+::Icono de Moodle 3::¿Cuántas opciones puede tener una Consulta?{
+	#6..6#Es su número máximo.
+}
+
+
+// question: 1709  name: Personas de Moodle 
+::Personas de Moodle::<p>Emparejar las preguntas con las respuestas correctas.</p>{
+	=¿Quién crea un curso? -> Administrador
+	=¿Quién puede crear un cuestionario? -> Profesor
+	=¿Quién puede crear un foro de debate? -> Profesor
+	=¿Quién puede participar en un foro de debate? -> Alumnos y profesores
+}
+
+
+// question: 1710  name: Icono de Moodle 1 
+// CLOZE type is not supported
+
+
+// question: 1711  name: Icono de Moodle 2 
+// CLOZE type is not supported
+
+
+// question: 1712  name: Icono de Moodle 3 
+// CLOZE type is not supported
+
+
+// question: 1713  name: Icono de Moodle 4 
+// CLOZE type is not supported
+
+
+// question: 1714  name: Icono de Moodle 3 
+::Icono de Moodle 3::<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/cuestionario.gif" align="baseline" /> es un:</p>{
+	=Cuestionario
+	~Glosario
+	~Escala
+	=Examen
+}
+
+
+// question: 1715  name: Icono de Moodle 4 
+::Icono de Moodle 4::<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/foro.gif" align="baseline" /> es un:</p>{
+	=Foro#Muy bien
+	~Charla#Mal
+	~Chat#Mal
+}
+
+
+// question: 1716  name: Icono de Moodle 4 
+::Icono de Moodle 4::<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/material.gif" align="baseline" /> puede ser un:</p>{
+	~Página Web
+	~Documento Word
+	~Gráfico o imagen
+	~Glosario
+}
+
+
+// question: 1717  name: Iconos de Moodle 1 
+::Iconos de Moodle 1::Emparejar los iconos con su significado en Moodle.{
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/glosario.gif" align="baseline" /> es un:</p> -> Glosario
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/material.gif" align="baseline" /> es un:</p> -> Material
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/foro.gif" align="baseline" /> es un:</p> -> Foro
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/cuestionario.gif" align="baseline" /> es un:</p> -> Cuestionario
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/scales.gif" align="baseline" /> son:</p> -> Escalas
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/leccion.gif" align="baseline" /> es una:</p> -> Lección
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/Consulta.gif" align="baseline" /> es una:</p> -> Consulta
+	=<p>El icono <img alt="icono" src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/charla.gif" align="baseline" /> es una:</p> -> Charla
+}
+
+
+// question: 1718  name: Icono según el tipo de archivo 
+::Icono según el tipo de archivo::Asocia el icono con el tipo de archivo que aparece en la ventana de Archivos{
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/text.gif" alt="icono" /> es un -> Texto
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/pdf.gif" alt="icono" /> es un -> PDF (Acrobat)
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/powerpoint.gif" alt="icono" /> es un -> Power Point
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/video.gif" alt="icono" /> es un -> Vídeo
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/word.gif" alt="icono" /> es un -> Word
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/zip.gif" alt="icono" /> es un -> ZIP (Comprimido)
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/html.gif" alt="icono" /> es un -> Página Web
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/folder.gif" alt="icono" /> es un -> Directorio
+	=El icono <img src="graf/pix/audio.gif" alt="icono" /> es un -> Audio (mp3, wav,..)
+	=El icono <img src="graf/pix/folder.gif" alt="icono" /> es un -> Directorio
+}
+
+
+// question: 1719  name: Icono según el tipo de archivo 1 
+::Icono según el tipo de archivo 1::Asociar el formato del archivo con el icono{
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/excel.gif" alt="icono" /> es un -> Excel
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/unknown.gif" alt="icono" /> es un -> Formato desconocidio
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/image.gif" alt="icono" /> es un -> Gráfico
+	=El icono <img src="http://babel.moodle.com/file.php/14/documentacion_proyecto/graf/pix/audio.gif" alt="icono" /> es un -> Audio (mp3, wav,..)
+}
+
+

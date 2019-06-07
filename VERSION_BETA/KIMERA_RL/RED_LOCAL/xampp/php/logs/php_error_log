@@ -1,0 +1,260 @@
+[29-Jan-2019 04:21:03 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[29-Jan-2019 04:21:03 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[29-Jan-2019 04:21:03 Europe/Berlin] Debugging: cURL request for "https://download.moodle.org/download.php/direct/langpack/2.9/languages.md5" failed with: Could not resolve host: download.moodle.org (6) in 
+* line 1299 of \lib\filelib.php: call to debugging()
+* line 498 of \lib\componentlib.class.php: call to download_file_content()
+* line 445 of \lib\componentlib.class.php: call to component_installer->get_all_components_md5()
+* line 377 of \lib\componentlib.class.php: call to component_installer->get_component_md5()
+* line 277 of \lib\componentlib.class.php: call to component_installer->need_upgrade()
+* line 791 of \lib\componentlib.class.php: call to component_installer->install()
+* line 652 of \lib\componentlib.class.php: call to lang_installer->install_language_pack()
+* line 389 of \install.php: call to lang_installer->run()
+
+[31-Jan-2019 01:30:54 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 01:30:54 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 01:30:54 Europe/Berlin] Debugging: cURL request for "https://download.moodle.org/download.php/direct/langpack/2.9/languages.md5" failed with: Could not resolve host: download.moodle.org (6) in 
+* line 1299 of \lib\filelib.php: call to debugging()
+* line 498 of \lib\componentlib.class.php: call to download_file_content()
+* line 445 of \lib\componentlib.class.php: call to component_installer->get_all_components_md5()
+* line 377 of \lib\componentlib.class.php: call to component_installer->get_component_md5()
+* line 277 of \lib\componentlib.class.php: call to component_installer->need_upgrade()
+* line 791 of \lib\componentlib.class.php: call to component_installer->install()
+* line 652 of \lib\componentlib.class.php: call to lang_installer->install_language_pack()
+* line 389 of \install.php: call to lang_installer->run()
+
+[31-Jan-2019 02:01:18 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:01:18 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:01:18 Europe/Berlin] Debugging: cURL request for "https://download.moodle.org/download.php/direct/langpack/2.9/languages.md5" failed with: Could not resolve host: download.moodle.org (6) in 
+* line 1299 of \lib\filelib.php: call to debugging()
+* line 498 of \lib\componentlib.class.php: call to download_file_content()
+* line 445 of \lib\componentlib.class.php: call to component_installer->get_all_components_md5()
+* line 377 of \lib\componentlib.class.php: call to component_installer->get_component_md5()
+* line 277 of \lib\componentlib.class.php: call to component_installer->need_upgrade()
+* line 791 of \lib\componentlib.class.php: call to component_installer->install()
+* line 652 of \lib\componentlib.class.php: call to lang_installer->install_language_pack()
+* line 389 of \install.php: call to lang_installer->run()
+
+[31-Jan-2019 02:03:32 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:32 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:32 Europe/Berlin] Debugging: cURL request for "https://download.moodle.org/download.php/direct/langpack/2.9/languages.md5" failed with: Could not resolve host: download.moodle.org (6) in 
+* line 1299 of \lib\filelib.php: call to debugging()
+* line 498 of \lib\componentlib.class.php: call to download_file_content()
+* line 445 of \lib\componentlib.class.php: call to component_installer->get_all_components_md5()
+* line 377 of \lib\componentlib.class.php: call to component_installer->get_component_md5()
+* line 277 of \lib\componentlib.class.php: call to component_installer->need_upgrade()
+* line 791 of \lib\componentlib.class.php: call to component_installer->install()
+* line 652 of \lib\componentlib.class.php: call to lang_installer->install_language_pack()
+* line 389 of \install.php: call to lang_installer->run()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'database' or component 'install'. Perhaps you are missing $string['database'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 484 of \install.php: call to get_string()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'databasetypehead' or component 'install'. Perhaps you are missing $string['databasetypehead'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 485 of \install.php: call to get_string()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'databasetypesub' or component 'install'. Perhaps you are missing $string['databasetypesub'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 486 of \install.php: call to get_string()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'thisdirection' or component 'langconfig'. Perhaps you are missing $string['thisdirection'] = ''; in lang/en/langconfig.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 2985 of \lib\weblib.php: call to get_string()
+* line 330 of \lib\installlib.php: call to right_to_left()
+* line 486 of \install.php: call to install_print_header()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'installation' or component 'install'. Perhaps you are missing $string['installation'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 335 of \lib\installlib.php: call to get_string()
+* line 486 of \install.php: call to install_print_header()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'installation' or component 'install'. Perhaps you are missing $string['installation'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 345 of \lib\installlib.php: call to get_string()
+* line 486 of \install.php: call to install_print_header()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'dbtype' or component 'install'. Perhaps you are missing $string['dbtype'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 497 of \install.php: call to get_string()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativemysqli' or component 'install'. Perhaps you are missing $string['nativemysqli'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 358 of \lib\dml\mysqli_native_moodle_database.php: call to get_string()
+* line 506 of \install.php: call to mysqli_native_moodle_database->get_name()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativemariadb' or component 'install'. Perhaps you are missing $string['nativemariadb'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 47 of \lib\dml\mariadb_native_moodle_database.php: call to get_string()
+* line 506 of \install.php: call to mariadb_native_moodle_database->get_name()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'pgsqlextensionisnotpresentinphp' or component 'install'. Perhaps you are missing $string['pgsqlextensionisnotpresentinphp'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 56 of \lib\dml\pgsql_native_moodle_database.php: call to get_string()
+* line 502 of \install.php: call to pgsql_native_moodle_database->driver_installed()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'ociextensionisnotpresentinphp' or component 'install'. Perhaps you are missing $string['ociextensionisnotpresentinphp'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 62 of \lib\dml\oci_native_moodle_database.php: call to get_string()
+* line 502 of \install.php: call to oci_native_moodle_database->driver_installed()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativesqlsrvnodriver' or component 'install'. Perhaps you are missing $string['nativesqlsrvnodriver'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 73 of \lib\dml\sqlsrv_native_moodle_database.php: call to get_string()
+* line 502 of \install.php: call to sqlsrv_native_moodle_database->driver_installed()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'mssqlextensionisnotpresentinphp' or component 'install'. Perhaps you are missing $string['mssqlextensionisnotpresentinphp'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 56 of \lib\dml\mssql_native_moodle_database.php: call to get_string()
+* line 502 of \install.php: call to mssql_native_moodle_database->driver_installed()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'notavailable' or component 'moodle'. Perhaps you are missing $string['notavailable'] = ''; in lang/en/moodle.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 509 of \install.php: call to get_string()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativepgsql' or component 'install'. Perhaps you are missing $string['nativepgsql'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 94 of \lib\dml\pgsql_native_moodle_database.php: call to get_string()
+* line 511 of \install.php: call to pgsql_native_moodle_database->get_name()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativeoci' or component 'install'. Perhaps you are missing $string['nativeoci'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 100 of \lib\dml\oci_native_moodle_database.php: call to get_string()
+* line 511 of \install.php: call to oci_native_moodle_database->get_name()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativesqlsrv' or component 'install'. Perhaps you are missing $string['nativesqlsrv'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 114 of \lib\dml\sqlsrv_native_moodle_database.php: call to get_string()
+* line 511 of \install.php: call to sqlsrv_native_moodle_database->get_name()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'nativemssql' or component 'install'. Perhaps you are missing $string['nativemssql'] = ''; in lang/en/install.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 94 of \lib\dml\mssql_native_moodle_database.php: call to get_string()
+* line 511 of \install.php: call to mssql_native_moodle_database->get_name()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'previous' or component 'moodle'. Perhaps you are missing $string['previous'] = ''; in lang/en/moodle.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 384 of \lib\installlib.php: call to get_string()
+* line 518 of \install.php: call to install_print_footer()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'next' or component 'moodle'. Perhaps you are missing $string['next'] = ''; in lang/en/moodle.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 399 of \lib\installlib.php: call to get_string()
+* line 518 of \install.php: call to install_print_footer()
+
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2928
+[31-Jan-2019 02:03:45 Europe/Berlin] PHP Notice:  Use of undefined constant NO_DEBUG_DISPLAY - assumed 'NO_DEBUG_DISPLAY' in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\weblib.php on line 2936
+[31-Jan-2019 02:03:45 Europe/Berlin] Debugging: Invalid get_string() identifier: 'moodlelogo' or component 'moodle'. Perhaps you are missing $string['moodlelogo'] = ''; in lang/en/moodle.php? in 
+* line 349 of \lib\classes\string_manager_standard.php: call to debugging()
+* line 6685 of \lib\moodlelib.php: call to core_string_manager_standard->get_string()
+* line 406 of \lib\installlib.php: call to get_string()
+* line 518 of \install.php: call to install_print_footer()
+
+[31-Jan-2019 02:17:43 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\lang\pl\langconfig.php on line 31
+[31-Jan-2019 02:17:44 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:18:03 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:18:25 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:18:34 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:19:04 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:21:10 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:21:25 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:21:31 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:22:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\lib\moodlelib.php on line 7405
+[31-Jan-2019 02:25:53 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:26:10 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:26:20 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:27:05 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[31-Jan-2019 02:27:32 Europe/Berlin] PHP Warning:  file_get_contents(C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle/theme/): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\xampp\htdocs\moodle\install\css.php on line 41
+[01-Feb-2019 03:00:21 UTC] Error in Matomo: Zend_Session is currently marked as read-only.
+[01-Feb-2019 03:00:25 UTC] Error in Matomo: Zend_Session is currently marked as read-only.
+[01-Feb-2019 03:00:25 UTC] Error in Matomo: Zend_Session is currently marked as read-only.
+[01-Feb-2019 03:00:26 UTC] Error in Matomo: Zend_Session is currently marked as read-only.
+[02-Feb-2019 18:46:36 America/Bogota] Potential coding error - existing temptables found when disposing database. Must be dropped!
+[02-Feb-2019 18:59:17 America/Bogota] Potential coding error - existing temptables found when disposing database. Must be dropped!
+[09-Feb-2019 17:19:29 Europe/Berlin] PHP Warning:  require(C:\KIMERA_RL\RED_LOCAL/wp-blog-header.php): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\index.php on line 30
+[09-Feb-2019 17:19:29 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'C:\KIMERA_RL\RED_LOCAL/wp-blog-header.php' (include_path='.;C:\KIMERA_RL\RED_LOCAL\xampp\php\PEAR') in C:\KIMERA_RL\RED_LOCAL\index.php on line 30
+[09-Feb-2019 17:19:53 Europe/Berlin] PHP Warning:  require(C:\KIMERA_RL\RED_LOCAL/wp-blog-header.php): failed to open stream: No such file or directory in C:\KIMERA_RL\RED_LOCAL\index.php on line 30
+[09-Feb-2019 17:19:53 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'C:\KIMERA_RL\RED_LOCAL/wp-blog-header.php' (include_path='.;C:\KIMERA_RL\RED_LOCAL\xampp\php\PEAR') in C:\KIMERA_RL\RED_LOCAL\index.php on line 30
+[14-Feb-2019 18:58:05 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[14-Feb-2019 20:52:54 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[14-Feb-2019 20:53:02 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[15-Feb-2019 19:09:55 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[15-Feb-2019 19:57:18 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[15-Feb-2019 20:05:53 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[22-Feb-2019 15:18:39 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[22-Feb-2019 15:54:24 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[22-Feb-2019 16:45:21 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[22-Feb-2019 16:45:23 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[27-Feb-2019 15:01:13 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[27-Feb-2019 15:01:45 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[27-Feb-2019 15:01:51 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[27-Feb-2019 15:01:54 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[27-Feb-2019 15:02:19 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[27-Feb-2019 15:02:59 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[28-Feb-2019 20:36:33 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[28-Feb-2019 20:52:41 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[28-Feb-2019 20:54:22 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[28-Feb-2019 23:52:28 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[01-Mar-2019 16:33:05 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[04-Mar-2019 14:50:42 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .
+[04-Mar-2019 15:04:33 UTC] Error in Matomo (tracker): An unexpected website was found in the request: website id was set to '3' .

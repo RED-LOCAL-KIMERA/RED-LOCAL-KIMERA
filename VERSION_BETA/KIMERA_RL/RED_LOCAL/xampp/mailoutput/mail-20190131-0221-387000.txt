@@ -1,0 +1,26 @@
+To: pruebas0801@gmail.com
+Subject: Nuevo sitio de WordPress
+Date: Thu, 31 Jan 2019 02:21:32 +0000
+From: WordPress <wordpress@localhost>
+Message-ID: <efd45c2aaf14238c71b7786345456ece@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Tu nuevo sitio WordPress ha sido creado en:
+
+http://localhost/RED_LOCAL/xampp/htdocs/wordpress
+
+Puedes acceder a tu cuenta de administrador con la siguiente información:
+
+Nombre de usuario: admin
+Contraseña: La contraseña que has elegido durante la instalación.
+Accede desde aquí:  http://localhost/RED_LOCAL/xampp/htdocs/wordpress/wp-login.php
+
+Esperamos que disfrutes de tu sitio. ¡Gracias!
+
+--El Equipo de WordPress
+https://wordpress.org/
+

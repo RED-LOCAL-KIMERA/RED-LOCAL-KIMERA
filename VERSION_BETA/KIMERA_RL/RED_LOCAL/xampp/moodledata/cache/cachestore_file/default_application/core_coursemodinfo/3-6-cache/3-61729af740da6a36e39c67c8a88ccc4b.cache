@@ -1,0 +1,234 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:13:{i:6;O:8:"stdClass":12:{s:2:"id";s:1:"4";s:2:"cm";s:1:"6";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"3";s:6:"module";s:1:"9";s:5:"added";s:10:"1527935920";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:59:"<div class="no-overflow">Avisos y novedades generales</div>";s:4:"name";s:19:"Tablón de anuncios";}i:7;O:8:"stdClass":12:{s:2:"id";s:1:"5";s:2:"cm";s:1:"7";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"3";s:6:"module";s:1:"9";s:5:"added";s:10:"1527937788";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:195:"<div class="no-overflow"><p>En este foro se solventarán todas las dudas del curso que no tenga referencia a ninguno de los módulos ya que cada módulo tendrá su propio foro de dudas.</p></div>";s:4:"name";s:22:"Foro general del curso";}i:8;O:8:"stdClass":13:{s:2:"id";s:1:"1";s:2:"cm";s:1:"8";s:3:"mod";s:8:"resource";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"3";s:6:"module";s:2:"17";s:5:"added";s:10:"1528010006";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:18:"Guía del estuante";s:7:"content";s:103:"<div class="no-overflow"><p>Esta guía os servirá para conocer todos los detalles del curso.</p></div>";}i:9;O:8:"stdClass":12:{s:2:"id";s:1:"6";s:2:"cm";s:1:"9";s:3:"mod";s:5:"forum";s:7:"section";s:1:"2";s:9:"sectionid";s:1:"5";s:6:"module";s:1:"9";s:5:"added";s:10:"1527936817";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:143:"<div class="no-overflow"><p>En este foro, todos los participantes podrá resolver las dudas ir surgiendo en relación a este módulo.</p></div>";s:4:"name";s:13:"Foro de dudas";}i:10;O:8:"stdClass":12:{s:2:"id";s:1:"7";s:2:"cm";s:2:"10";s:3:"mod";s:5:"forum";s:7:"section";s:1:"2";s:9:"sectionid";s:1:"5";s:6:"module";s:1:"9";s:5:"added";s:10:"1527936930";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:129:"<div class="no-overflow"><p>En este espacio debate se realizará la presentación de todos los participantes del curso.</p></div>";s:4:"name";s:6:"Debate";}i:11;O:8:"stdClass":12:{s:2:"id";s:1:"1";s:2:"cm";s:2:"11";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:9:"sectionid";s:1:"5";s:6:"module";s:2:"16";s:5:"added";s:10:"1527937064";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:168:"<div class="no-overflow"><p>Antes de comenzar, todos los participantes deberán responder a este cuestionario para conocer los conocimientos previos al curso.</p></div>";s:4:"name";s:19:"Evaluación inicial";}i:12;O:8:"stdClass":10:{s:2:"id";s:1:"1";s:2:"cm";s:2:"12";s:3:"mod";s:6:"assign";s:7:"section";s:1:"2";s:9:"sectionid";s:1:"5";s:6:"module";s:1:"1";s:5:"added";s:10:"1527937609";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:4:"name";s:21:"Entrega actividad 2. ";}i:13;O:8:"stdClass":12:{s:2:"id";s:1:"8";s:2:"cm";s:2:"13";s:3:"mod";s:5:"forum";s:7:"section";s:1:"3";s:9:"sectionid";s:1:"6";s:6:"module";s:1:"9";s:5:"added";s:10:"1527945662";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:126:"<div class="no-overflow"><p>En este foro se resolverán todas las dudas que puedan surgir en relación al módulo 2.</p></div>";s:4:"name";s:14:"Foro de dudas.";}i:14;O:8:"stdClass":12:{s:2:"id";s:1:"9";s:2:"cm";s:2:"14";s:3:"mod";s:5:"forum";s:7:"section";s:1:"3";s:9:"sectionid";s:1:"6";s:6:"module";s:1:"9";s:5:"added";s:10:"1527945592";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:111:"<div class="no-overflow"><p>En este espacio se realizará el debate correspondiente a la actividad 1.</p></div>";s:4:"name";s:19:"Debate actividad 1.";}i:15;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:2:"15";s:3:"mod";s:6:"assign";s:7:"section";s:1:"3";s:9:"sectionid";s:1:"6";s:6:"module";s:1:"1";s:5:"added";s:10:"1527945961";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:20:"Entrega actividad 2.";s:7:"content";s:146:"<div class="no-overflow"><p>En este apartado se realizará la entrega del análisis de las dos herramientas utilizadas en gamificación.</p></div>";}i:16;O:8:"stdClass":12:{s:2:"id";s:2:"10";s:2:"cm";s:2:"16";s:3:"mod";s:5:"forum";s:7:"section";s:1:"4";s:9:"sectionid";s:1:"7";s:6:"module";s:1:"9";s:5:"added";s:10:"1527946399";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:133:"<div class="no-overflow"><p>En este espacio se resolverán todas las sudas que puedan surgir relacionadas con el módulo 3.</p></div>";s:4:"name";s:13:"Foro de dudas";}i:17;O:8:"stdClass":12:{s:2:"id";s:1:"3";s:2:"cm";s:2:"17";s:3:"mod";s:6:"assign";s:7:"section";s:1:"4";s:9:"sectionid";s:1:"7";s:6:"module";s:1:"1";s:5:"added";s:10:"1527946529";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:23:"Entrega de la actividad";s:7:"content";s:84:"<div class="no-overflow"><p>En este apartado se entregará la actividad 1.</p></div>";}i:18;O:8:"stdClass":12:{s:2:"id";s:1:"2";s:2:"cm";s:2:"18";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:9:"sectionid";s:1:"7";s:6:"module";s:2:"16";s:5:"added";s:10:"1527946707";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:7:"content";s:101:"<div class="no-overflow"><p>Para finalizar el curso, se deberá realizar este cuestionario.</p></div>";s:4:"name";s:18:"Cuestionario final";}}s:12:"sectioncache";a:11:{i:0;O:8:"stdClass":3:{s:2:"id";s:1:"3";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":4:{s:2:"id";s:1:"4";s:4:"name";s:23:"Presentación del curso";s:7:"summary";s:5680:"<p></p><p><span lang="ES-TRAD">Antes
+de empezar a trabajar el curso para docentes de gamificación, debemos pararnos
+a pensar ¿En qué influye la gamificación?¿Qué beneficios pueden obtener los
+alumnos? Para poder llevar a cabo la gamificación en el aula es muy importante
+que tengamos claros los objetivos que pretendemos alcanzar con ella.</span></p>
+
+<p><span lang="ES-TRAD">Debemos
+tener en cuenta que en la actualidad, los alumnos se encuentran inmersos en el
+mundo de las tecnologías pero no suelen utilizarlos con fines educativos y es
+ahí donde debemos entrar en acción los docentes, utilizando las tecnologías
+como aliadas para incidir en los aprendizajes fomentando el pensamiento crítico
+y reflexivo para que los alumnos aprendan a pensar.</span></p>
+
+<p><span lang="ES-TRAD">Por
+este motivo, se imparte este curso, ofreciendo información y recursos a todos
+los docentes que pretendan llevarlo a cabo en sus aulas de educación infantil y
+primaria.</span></p><p><span lang="ES-TRAD"></span></p><p><span lang="ES-TRAD">Este
+curso será realizado utilizando la modalidad de aprendizaje blended learning en
+la que interfiere el aprendizaje tanto virtual como prensencial.</span></p>
+
+<p><span lang="ES-TRAD">Tal
+y como indica&nbsp; Gómez (2017) “El
+B-Learning es un modelo mixto de formación online y presencial. Un nuevo
+concepto de formación, en el que lo mejor del mundo virtual y presencial, se
+combinan según las necesidades o preferencias de la empresa. (Pascual, 2015)”</span></p>
+
+<p><span lang="ES-TRAD">Se
+ha elegido esta modalidad porque presenta una estructura muy flexible, permitiendo
+a los docentes realizar el curso de formación adaptado a sus horarios y
+necesidades.&nbsp;Además consideramos que los docentes deben ver &nbsp;y practicar en el aula cómo se utilizan en la pizarra digital las diferentes aplicaciones destinadas a la gamificación en el aula.</span></p>
+
+<p><span lang="ES-TRAD">El
+modelo pedagógico en el que se centra este curso será el constructivismo ya que
+utilizando los recursos y actividades ofrecidos e investigación a través de
+internet sobre dicha temática permite que creen por sí mismos su aprendizaje.</span></p>
+
+<p><span lang="ES-TRAD">Es por ello que se realizarán actividades en espacios de
+debate para fomentar el intercambio de información entre todos los
+participante, permitiendo que aprendan unos de otros adquiriendo así un papel
+activo en el proceso de enseñanza aprendizaje. </span></p><p><span lang="ES-TRAD">Los objetivos generales que se trabajarán durante todo el curso serán:</span></p><p><span lang="ES-TRAD"><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Dotar a los docentes
+conocimientos necesarios para llevar a cabo la gamificación en el aula.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Proporcionar las
+herramientas necesarias que permitan integrar la gamificación en el contexto
+educativo.</span></p></span></p><p><span lang="ES-TRAD"></span></p><p><span lang="ES-TRAD">El
+curso para docentes sobre gamificación en el aula, tendrá una duración de un mes
+y una semana, comenzando el día 1 de octubre de 2018 y finalizando el día 11 de
+noviembre de 2018.</span></p><p><span lang="ES-TRAD"></span></p><p><span lang="ES-TRAD">Tendrá una duración de 21 horas y estará dividido en tres módulos que contarán con 2 actividades
+cada uno.</span></p>
+
+<p><span lang="ES-TRAD">Cada
+módulo tendrá una duración correspondiente a dos semanas y tendrá una carga
+horaria de 7 horas. Cada una de las actividades de cada módulo se podrá
+realizar en un plazo máximo de 7 días.</span></p>
+
+<p><span lang="ES-TRAD">La
+estructura que tendrá el curso será la siguiente:</span></p><p>
+
+</p><table border="1" cellspacing="0" cellpadding="0" width="612">
+ <tbody><tr>
+  <td width="117">
+  <p align="center"><b><span lang="ES-TRAD">MÓDULO</span></b></p>
+  </td>
+  <td width="219">
+  <p align="center"><b><span lang="ES-TRAD">TEMPORALIZACIÓN</span></b></p>
+  </td>
+  <td width="276">
+  <p align="center"><b><span lang="ES-TRAD">TÍTULO</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="117">
+  <p align="center"><b><span lang="ES-TRAD">Módulo 1</span></b></p>
+  </td>
+  <td width="219">
+  <p align="center"><span lang="ES-TRAD">Del 1 de octubre al 14 de octubre.</span></p>
+  </td>
+  <td width="276">
+  <p align="center"><span lang="ES-TRAD">Conoce la gamificación.</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="117">
+  <p align="center"><b><span lang="ES-TRAD">Módulo 2</span></b></p>
+  </td>
+  <td width="219">
+  <p align="center"><span lang="ES-TRAD">Del 15 de octubre al 28 de octubre.</span></p>
+  </td>
+  <td width="276">
+  <p align="center"><span lang="ES-TRAD">Herramientas de gamificación.</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="117">
+  <p align="center"><b><span lang="ES-TRAD">Módulo 3</span></b></p>
+  </td>
+  <td width="219">
+  <p align="center"><span lang="ES-TRAD">Del 29 de octubre al 11 de noviembre.</span></p>
+  </td>
+  <td width="276">
+  <p align="center"><span lang="ES-TRAD">Diseño de actividades gamificadoras.</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p><span lang="ES-TRAD">&nbsp;</span></p>
+
+<p><span lang="ES-TRAD">Es
+por ello que todo el curso será realizado a través de la plataforma online
+moodle a excepción de la última actividad del módulo tres será realizada en el
+CEIP Padre Méndez, Málaga, el martes día 30 de octubre de 2018 a las 16:30
+horas.</span></p><br><p></p><br><p></p><br><p></p><br><p></p>";s:12:"availability";N;}i:2;O:8:"stdClass":4:{s:2:"id";s:1:"5";s:4:"name";s:34:"Módulo 1. Conoce la gamificación";s:7:"summary";s:3891:"<p>En el primer módulo del curso, conoceremos qué es la gamificación y los beneficios que esta nos puede ofrecer en el contexto educativo.</p><h4><b><span class="" style="color: rgb(125, 159, 211);">Objetivos específicos:</span></b></h4><p></p><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Aprender qué es la
+gamificación y comprenderlo como parte de la metodología de aprendizaje.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Identificar los beneficios
+que aporta la gamificación en el proceso de enseñanza aprendizaje.</span></p><p><span lang="ES-TRAD"></span></p><h4><b><span class="" style="color: rgb(125, 159, 211);">Competencias:&nbsp;</span></b></h4>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Aprender a aprender.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia digital.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia en comunicación
+lingüística.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Sentido de la iniciativa y
+espíritu emprendedor.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia social y cívica.</span></p><h4><span lang="ES-TRAD"><b><span class="" style="color: rgb(125, 159, 211);">Contenidos:</span></b></span></h4><p><span lang="ES-TRAD"></span></p><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">La gamificación.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Beneficios de la gamificación.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">La gamificación como
+metodología en el proceso de enseñanza aprendizaje.</span></p><h4><span lang="ES-TRAD"><b><span class="" style="color: rgb(125, 159, 211);">Actividades:</span></b></span></h4><p><span lang="ES-TRAD"></span></p><p><u><span lang="ES-TRAD">Actividad
+1:</span></u><span lang="ES-TRAD"> Para fomentar la interacción entre todos los
+participantes, se presentarán en el foro y cumplimentarán un cuestionario de 3 preguntas
+sobre gamificación.</span></p>
+
+<p><u><span lang="ES-TRAD">Actividad
+2:</span></u><span lang="ES-TRAD"> Lectura y visualización de los documentos y
+vídeos de referencia. Realización de una reflexión de dos folios como máximo
+sobre qué es la gamificación, cómo podría integrarla en su aula y los
+beneficios que considera que se obtendrían.</span></p><h4><span class="" style="color: rgb(125, 159, 211);">Documento de referencia:</span></h4><p>Para acceder al documento se deberá hacer click encima de su nombre.</p><p>-&nbsp;<a href="http://oa.upm.es/35517/1/fundamentos%20de%20la%20gamificacion_v1_1.pdf">Fundamentos de la gamificación.</a>&nbsp;</p><p>- ¿Qué es la gamificación?&nbsp;<a href="https://www.youtube.com/watch?v=rdzjUhRBlq0">¿Qué es la gamificación?</a></p><p>- Gamificar el aula.&nbsp;<a href="https://www.youtube.com/watch?v=E6m-fUOQUkc">Gamificar el aula.</a></p><br><p></p><br><p></p><br><p></p><br><p></p>";s:12:"availability";N;}i:3;O:8:"stdClass":4:{s:2:"id";s:1:"6";s:4:"name";s:40:"Módulo 2. Herramientas de gamificación";s:7:"summary";s:5241:"<p>En este módulo vamos a conocer las herramientas Class Dojo y Kahoot destinadas a la gamificación en el aula.</p><h4><b><span class="" style="color: rgb(125, 159, 211);">Objetivos específicos:</span></b></h4><p></p><p><!--[if !supportLists]--><span lang="ES-TRAD">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Identificar las cualidades
+que fomenta la gamificación en el alumnado.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Conocer las diferentes
+herramientas que se pueden utilizar para gamificar en el contexto educativo.</span></p><h4><span lang="ES-TRAD"><b><span class="" style="color: rgb(125, 159, 211);">Competencias:</span></b></span></h4><p><span lang="ES-TRAD"></span></p><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Aprender a aprender.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia digital.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia en comunicación
+lingüística.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Sentido de la iniciativa y
+espíritu emprendedor.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia social y cívica.</span></p><h4><b><span class="" style="color: rgb(125, 159, 211);">Contenidos:</span></b></h4><p></p><p><span lang="ES-TRAD"></span></p><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Cualidades de la gamificación.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Herramientas gamificadoras.</span></p><h4><b><span class="" style="color: rgb(125, 159, 211);">Actividad<span class="" style="color: rgb(125, 159, 211);">es</span></span><span class="" style="color: rgb(125, 159, 211);">:</span></b></h4><p></p><p><span lang="ES-TRAD"></span></p><p><u><span lang="ES-TRAD">Actividad
+1: </span></u><span lang="ES-TRAD">Lectura y visualización de los documentos y vídeos
+de referencia. Participar en el espacio debate aportando las cualidades que
+cree que aporta la gamificación en el aula.</span></p>
+
+<p><u><span lang="ES-TRAD">Actividad
+2: </span></u><span lang="ES-TRAD">Investigar las diferentes herramientas que
+utilizan la gamificación y realizar un análisis profundo de dos de ellas.<u></u></span></p><h4><b><span class="" style="color: rgb(125, 159, 211);">Documentos de referencia:</span></b></h4><p></p><p>Para acceder a los documentos, se deberá hacer click sobre el nombre.</p><p><span lang="ES-TRAD"><b>CLASS DOJO</b></span></p><p><span lang="ES-TRAD">-&nbsp;<span lang="ES-TRAD"><a href="https://www.classdojo.com/es-es/resources/">Class Dojo. </a></span></span></p><p><span lang="ES-TRAD">- Class Dojo.&nbsp;<span lang="ES-TRAD"><a href="https://www.youtube.com/watch?v=Wn1QxDaeOCM">Class Dojo. </a></span></span></p><p><span lang="ES-TRAD">- Tutorial.&nbsp;<span lang="ES-TRAD"><a href="https://www.youtube.com/watch?v=HPmwrP4qoSE">Tutorial CLASSDOJO
+español #sistemadepuntos.</a></span></span></p><p><span lang="ES-TRAD">- Premio Class Dojo.&nbsp;<span lang="ES-TRAD"><a href="https://www.youtube.com/watch?v=OmRjdFFsjM0">Premio Class Dojo.</a></span></span></p><span lang="ES-TRAD"></span><p></p><p><br></p><p><b>KAHOOT</b></p><p>-&nbsp;<span lang="ES-TRAD"><a href="https://www.xataka.com/basics/kahoot-que-es-para-que-sirve-y-como-funciona">Kahoot! Qué es, para qué sirve y cómo funciona.</a></span></p><p>-&nbsp;&nbsp;<a href="https://eduarea.wordpress.com/2015/02/28/aprendizaje-basado-en-el-juego-kahoot-2/">Aprendizaje
+basa en el juego: Kahoot</a></p><p>- Tutorial.&nbsp;<span lang="ES-TRAD"><a href="https://www.youtube.com/watch?v=4wSDAKMqv-Q">Tutorial
+KAHOOT español </a></span></p>- Usando Kahoot en el aula.&nbsp;<span lang="ES-TRAD"><a href="https://www.youtube.com/watch?v=_GgqgkbWfoQ">Usando
+KAHOOT, en el aula.</a></span><br><p>-&nbsp;<span lang="ES-TRAD"><a href="http://www.educaciontrespuntocero.com/recursos/kahoots-para-primaria/40126.html">Los mejores Kahoots
+educativos para usar en Primaria. </a></span></p><p>- Kahoot, CEIP Santa Cecilia.&nbsp;&nbsp;<span><span lang="ES-TRAD" style=""><a href="https://www.youtube.com/watch?v=FGs-q-kiHVY">KAHOOT, C.E.I.P SANTA CECILIA</a></span></span><span lang="ES-TRAD"> </span></p><p><span>- Kahoot, cálculo mental colegio Santa Ana de Alcoy.&nbsp;<span><span lang="ES-TRAD" style=""><a href="https://www.youtube.com/watch?v=58q1f7rC-gg">KAHOOT, CÁLCULO MENTAL
+COLEGIO SANTA ANA DE ALCOY</a></span></span><span lang="ES-TRAD"> </span></span></p>";s:12:"availability";N;}i:4;O:8:"stdClass":4:{s:2:"id";s:1:"7";s:4:"name";s:47:"Módulo 3. Diseño de actividades gamificadoras";s:7:"summary";s:3623:"<p>En el módulo 3, aprenderemos a diseñar actividades utilizando la gamificación.</p><h4><span class="" style="color: rgb(125, 159, 211);">Objetivos específicos:</span></h4><p></p><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Aprender a diseñar y
+planificar actividades relacionadas con la gamificación.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Aprender a utilizar algunas
+de las plataformas o herramientas que trabajan a partir de la gamificación.</span></p><h4><span class="" style="color: rgb(125, 159, 211);">Competencias:</span></h4><p></p><p></p><p><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang="ES-TRAD">Aprender a aprender.</span><br></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia digital.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia en comunicación
+lingüística.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Sentido de la iniciativa y
+espíritu emprendedor.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Competencia social y cívica.</span></p><h4><span class="" style="color: rgb(125, 159, 211);">Contenidos:</span></h4><p></p><p></p><p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Diseño de actividades de
+gamificación.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Planificación de actividades
+de gamificación.</span></p>
+
+<p><!--[if !supportLists]--><span lang="ES-TRAD">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span lang="ES-TRAD">Manipulación de herramientas
+de gamificación.</span></p><h4><span class="" style="color: rgb(125, 159, 211);">Actividades:</span></h4><p></p><p></p><p><u><span lang="ES-TRAD">Actividad
+1:</span></u><span lang="ES-TRAD"> Creación de una actividad en no más de 3
+folios que se lleve a cabo a través de la gamificación.</span></p>
+
+<p><u><span lang="ES-TRAD">Actividad
+2:</span></u><span lang="ES-TRAD"> En el lugar indicado para llevar a cabo esta
+actividad, manipular las diferentes herramientas y generar un debate de qué
+aplicación sería la más indicada para cada nivel educativo.</span></p><h4><span class="" style="color: rgb(125, 159, 211);">Documentos de referencia:</span></h4><p></p><p>Para acceder al documento, se deberá hacer click encima de su nombre.<br></p><p>-&nbsp;<a href="http://repositori.uji.es/xmlui/handle/10234/169057"><span lang="ES-TRAD">Una
+experiencia de gamificación con tablets para potenciar el inglés en un aula de
+infantil</span><span lang="ES-TRAD">.</span><span lang="ES-TRAD"> &nbsp;</span></a><br></p><p>-&nbsp;<span lang="ES-TRAD">Game
+based learning: Gamificación en el aula.&nbsp;<span lang="ES-TRAD"><a href="https://www.youtube.com/watch?v=1yW6voYxNrA">Game
+based learning: Gamificación en el aula. </a></span></span></p>";s:12:"availability";N;}i:5;O:8:"stdClass":3:{s:2:"id";s:1:"8";s:4:"name";N;s:12:"availability";N;}i:6;O:8:"stdClass":3:{s:2:"id";s:1:"9";s:4:"name";N;s:12:"availability";N;}i:7;O:8:"stdClass":3:{s:2:"id";s:2:"10";s:4:"name";N;s:12:"availability";N;}i:8;O:8:"stdClass":3:{s:2:"id";s:2:"11";s:4:"name";N;s:12:"availability";N;}i:9;O:8:"stdClass":3:{s:2:"id";s:2:"12";s:4:"name";N;s:12:"availability";N;}i:10;O:8:"stdClass":3:{s:2:"id";s:2:"13";s:4:"name";N;s:12:"availability";N;}}s:9:"shortname";s:37:"Curso de gamificación para docentes.";s:8:"fullname";s:71:"Curso de gamificación para docentes de educación infantil y primaria.";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1549151656";}

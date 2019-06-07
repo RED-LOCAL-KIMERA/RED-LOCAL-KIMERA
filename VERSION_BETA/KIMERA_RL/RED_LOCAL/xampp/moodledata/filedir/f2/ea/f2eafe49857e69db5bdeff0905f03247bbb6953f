@@ -1,0 +1,408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+
+
+<meta http-equiv="Content-Type" content="text/html"><title>Blackboard vs. Moodle</title>
+
+  <link href="humboldt_files/w3ctalk-proj.htm" rel="stylesheet" type="text/css" media="projection" title="W3C Talk">
+  <link href="humboldt_files/w3ctalk-all.css" rel="stylesheet" type="text/css" media="screen" title="W3C Talk">
+  <link href="humboldt_files/w3ctalk-all.css" rel="stylesheet" type="text/css" media="tv" title="W3C Talk">
+  <link href="humboldt_files/w3ctalk-print.htm" rel="stylesheet" type="text/css" media="print" title="W3C Talk"></head><body>
+<h1>Blackboard vs. Moodle<br>
+  A Comparison of Satisfaction with Online Teaching and Learning Tools</h1>
+<p class="letterhead">&nbsp;</p>
+<p class="signature"><a href="mailto:bert@w3.org">Bert Bos</a></p>
+<p><a href="http://www.humboldt.edu/%7Ejdv1/moodle/kdm1@humboldt.edu">Kathy D. Munoz</a>, Professor, Humboldt State University</p>
+<p><a href="http://www.humboldt.edu/%7Ejdv1/moodle/joan@humboldt.edu">Joan Van Duzer</a>, Instructional Technologist, 
+  Humboldt State University</p>
+<p>15 February 2005</p>
+<h1>What is Blackboard?</h1>
+<ul>
+  <li>Learning Management System (LMS) software partially owned by Microsoft</li>
+  <li> Popular software used around the world</li>
+  <li> Licensed annually (HSU pays approx. $8,600 each year)</li>
+  <li> Used at HSU since 2001</li>
+  <li> Over $1 million spent each year in the CSU on Blackboard licenses</li>
+</ul>
+<h1>What is Moodle?</h1>
+<ul>
+  <li>&#8220;Open source&#8221; (free!) Learning Management System (LMS) software</li>
+  <li> Customizable by programming staff</li>
+  <li> Flexible for the instructor and developer</li>
+  <li> Supported by programmers world-wide</li>
+</ul>
+<h1>The Question ...</h1>
+<p><em><font color="#ff0000">Can free software satisfactorily meet the needs of 
+  students, faculty, and instructional technologists for online teaching and learning?</font></em></p>
+<h1>Finding the Answer ...</h1>
+<ul>
+  <li>Consulted with colleagues at the annual CSU CATS (Community of Academic 
+    Technology Staff) conference</li>
+  <li> Sought partners to replicate the experiment with Moodle--comparing it to 
+    the commercial software used at their campuses--so we could compare conclusions</li>
+  <li> Chico, San Marcos, and San Francisco State agreed to join the research 
+    effort</li>
+  <li> Found a teammate at Humboldt willing to teach online and pioneer with Moodle!</li>
+</ul>
+<h1>The Project</h1>
+<ul>
+  <li>Compared Moodle 1.3.2 to Blackboard&#8482; 6.0 Basic Edition using a course 
+    previously taught in the classroom for 20+ years</li>
+  <li> First experience using Moodle for both the developer and the facilitator</li>
+  <li> First fully-online Moodle course in the CSU</li>
+  <li> Facilitator&#8217;s first experience teaching online</li>
+  <li> Students&#8217; first time in a fully-online course</li>
+  <li> 35 students thought they were enrolling in a face-to-face course</li>
+  <li> Random assignment the first day of class: half in Blackboard, half in Moodle</li>
+</ul>
+<h1>Features Used</h1>
+<ul>
+  <li>Electronic assignment submissions</li>
+  <li> Virtual areas for group work</li>
+  <li> Self-assessment quizzes and online testing</li>
+  <li> Sequential learning objects (Moodle only)</li>
+  <li> Embedded ShockWave Flash (.swf) files</li>
+  <li> Tracked specific student activity (Moodle only)</li>
+  <li> Poll (Moodle only)</li>
+  <li> Glossary (Moodle only)</li>
+  <li> Survey</li>
+  <li> Discussion forums</li>
+  <li> Links to external Web pages</li>
+  
+</ul>
+<h1>What the Course Looks Like</h1>
+<p>Moodle <a href="http://learn.humboldt.edu/">http://learn.humboldt.edu</a></p>
+<ul>
+  <li> Blocks in three columns</li>
+  <li>Course content column in the center</li>
+  <li>Course content is organized by &#8220;week&#8221;, &#8220;topic,&#8221; 
+    or &#8220;social&#8221;</li>
+</ul>
+<p> Blackboard <a href="http://blackboard.humboldt.edu/">http://blackboard.humboldt.edu</a></p>
+<ul>
+  <li> Navigation buttons down the left side</li>
+  <li> Opening at the announcement area</li>
+</ul>
+<h1>Facilitator's Feedback</h1>
+<p>Moodle advantages over Blackboard: </p>
+<ul>
+  <li> Providing individualized feedback easily to all assignments</li>
+  <li> Easier to track each student&#8217;s activity in class 
+    <ul>
+      <li> When and how often parts of class accessed</li>
+      <li> From where students access the course</li>
+    </ul>
+  </li>
+</ul>
+<p>Blackboard advantages over Moodle </p>
+<ul>
+  <li>More polished appearance</li>
+  <li> Better gradebook</li>
+  <li> Threaded discussions easily differentiate between read and unread posts</li>
+  <li> Announcements are more prominently displayed upon entering the course</li>
+</ul>
+<h1>Student Satisfaction<br>
+  Did Blackboard/Moodle enhance instruction?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 0% strongly agree</li>
+  <li> 23.1% somewhat agree</li>
+  <li> 23.1% neutral</li>
+  <li> 23.1% somewhat disagree</li>
+  <li> 30.8% strongly disagree<br>
+  </li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 7.1% strongly agree</li>
+  <li> 21.4% somewhat agree</li>
+  <li> 28.6% neutral</li>
+  <li> 28.6% somewhat disagree</li>
+  <li> 14.3% strongly disagree</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Received adequate technical assistance?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 23.1% strongly agree</li>
+  <li> 46.2% somewhat agree</li>
+  <li> 23.1% neutral</li>
+  <li> 7.7% somewhat disagree</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 42.9% strongly agree</li>
+  <li> 28.6% somewhat agree</li>
+  <li> 7.1% neutral</li>
+  <li> 21.4% somewhat disagree</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Technology-based activities developed problem-solving skills?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 0% strongly agree</li>
+  <li> 53.8% somewhat agree</li>
+  <li> 23.1% neutral</li>
+  <li> 7.7% somewhat disagree</li>
+  <li> 15.4% strongly disagree</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 21.4% strongly agree</li>
+  <li> 0% somewhat agree</li>
+  <li> 64.3% neutral</li>
+  <li> 0% somewhat disagree</li>
+  <li> 14.3% strongly disagree</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Well organized instructional materials?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 69.2% strongly agree</li>
+  <li> 15.4% somewhat agree</li>
+  <li> 7.7% neutral</li>
+  <li> 7.7% somewhat disagree</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 57.1% strongly agree</li>
+  <li> 35.7% somewhat agree</li>
+  <li> 0% neutral</li>
+  <li> 7.1% somewhat disagree</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Communication tools: Interaction with classmates?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 15.4 significantly enhanced</li>
+  <li> 38.5% somewhat enhanced</li>
+  <li> 23.1% neutral</li>
+  <li> 23.1% somewhat impeded</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 21.4% significantly enhanced</li>
+  <li> 50.0% somewhat enhanced</li>
+  <li> 14.3% neutral</li>
+  <li> 14.3% somewhat impeded</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Communication tools: Interaction with instructor?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 15.4% significantly enhanced</li>
+  <li> 30.8% somewhat enhanced</li>
+  <li> 15.4% neutral</li>
+  <li> 38.5% somewhat impeded</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 14.3% significantly enhanced</li>
+  <li> 57.1% somewhat enhanced</li>
+  <li> 21.4% neutral</li>
+  <li> 7.1% significantly impeded</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Web-based resources were effective learning tools?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 38.5% strongly agree</li>
+  <li> 38.5% somewhat agree</li>
+  <li> 23.1% neutral</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 35.7% strongly agree</li>
+  <li> 57.1% somewhat agree</li>
+  <li> 7.1% neutral</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Discussion Boards were easy to use?</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 69.2% strongly agree</li>
+  <li> 30.8% somewhat agree</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li>57.1% strongly agree</li>
+  <li> 28.6% somewhat agree</li>
+  <li> 7.1% neutral</li>
+  
+</ul>
+<h1>Results</h1>
+<p><img src="humboldt_files/slide1.gif" alt="student scores on all assignments were virtually identical for both Moodle and Blackboard groups" height="593" width="726"></p>
+<ul>
+  
+</ul>
+<h1>Results</h1>
+<p><img src="humboldt_files/slide2.gif" alt="Scores by assignment in both Moodle and Blackboard groups are almost identical" height="628" width="776"></p>
+<ul>
+  
+</ul>
+<h1>Results</h1>
+<p><img src="humboldt_files/correlationfinalgrade.gif" alt="participation and final grade were significantly correlated" height="369" width="821"></p>
+<ul>
+</ul>
+<h1>Results</h1>
+<p><img src="humboldt_files/slide4.gif" alt="participation scores graph in a straight line when correlated to final grade" height="627" width="768"></p>
+<ul>
+</ul>
+<h1>Results</h1>
+<p><img src="humboldt_files/slide5.gif" alt="participation scores also significantly correlate to final exam" height="358" width="799"></p>
+<ul>
+</ul>
+<h1>Results</h1>
+<p><img src="humboldt_files/slide6.gif" alt="participation scores graph with a good fit correlation to final exam" height="530" width="652"></p>
+<ul>
+</ul>
+<h1>Results<br>
+  End of Semester Evaluation Composite Scores</h1>
+<p><img src="humboldt_files/endofsemesterevaluationmeanscores.gif" alt="end of semester evaluation mean scores show almost identical results for Moodle and Blackboard users" height="508" width="522"></p>
+<h1>Student Comments</h1>
+<ul>
+  <li>Great experience</li>
+  <li> I went into this course very concerned whether I could handle an on-line 
+    course or not. What I have discovered is how much I have learned from this 
+    type of learning format. <em><strong>It forced me to participate a lot more 
+    frequently than I believe I would have in a traditional classroom setting</strong></em>. 
+    Yes, I did put more time into this class than I might have in a regular classroom 
+    but it paid off for me. I learned I can do this!<br>
+  </li>
+  
+</ul>
+<h1>Student Comments</h1>
+<ul>
+  <li>It was hard to finish assignments on time because it was hard to find computer 
+    access.</li>
+  <li> One of the things I didn&#8217;t like about this class is that I received 
+    everyone&#8217;s responses to anything on my email account. This made me feel 
+    like nothing was private. (Moodle student)</li>
+  <li> This class was a good learning experience. I am not sure if online classes 
+    are for me though. <em><strong>Although someone who is shy like myself the 
+    online posts were great because I was involved in them, usually I don&#8217;t 
+    participate much in class.</strong></em></li>
+</ul>
+<h1>Student Comments</h1>
+<ul>
+  <li>I enjoyed the fact that I could log on whenever I wanted. The elimination 
+    of my alarm going off at 7:30 was awesome! I enjoyed the material and how 
+    it was presented.</li>
+  <li> I found it difficult to remember that I had an online class that I had 
+    to check in with 3 or more times per week.</li>
+  <li> Overall I thought that the online learning experience was good. <em><strong>I 
+    felt that I learned a lot and was forced to read the text more than I do for 
+    most of my classes.</strong></em><br>
+  </li>
+  
+</ul>
+<h1>Student Comments</h1>
+<ul>
+  <li>One thing that I didn't like was having too post 3 times a week. Sometimes, 
+    if I was one of the last people to say anything, I would have to come up with 
+    something original to say after their was not much else to add about the subject. 
+    It did't happen too often though.<em><strong> I just like how in a sit down 
+    class, when your having a bad day you can just let others speak up.</strong></em></li>
+  <li> I had a hard time in this class because it was online. I learn better in 
+    the classroom with the teacher and students physically present in class.</li>
+  <li> I really enjoyed taking an online class and look forward to taking another 
+    one this summer!<br>
+  </li>
+</ul>
+<h1>Student Comments</h1>
+<ul>
+  <li>I really enjoyed taking this class and I learned a lot and think I will 
+    be able to apply this knowledge in the future.</li>
+  <li> I do feel like I would have learned more if it was in a class setting. 
+    I sometimes did not have the motivation to "learn" the material. 
+    With that said, I also did learn some valuable info. The posts made it easy 
+    to express my thoughts and particapte with class mates. </li>
+  <li><strong><em>When we first started this class I wasnt thrilled about the 
+    idea of an online class, however it ended up being alright.</em></strong>&nbsp; 
+    Having the class online gave me the time to do the work around my schedule 
+    and I really liked having that liniancy. <br>
+  </li>
+  
+</ul>
+<h1>Developer's Feedback</h1>
+<p>Moodle advantages over Blackboard:</p>
+<ul>
+  <li> Easier to maneuver (fewer &#8220;clicks&#8221;!)</li>
+  <li> Less area monopolized for navigation </li>
+  <li>Easier to incorporate multimedia elements</li>
+  <li> More tools available (glossary, poll, lesson, journal)</li>
+  <li> Track student activity to see which parts of the course are preferred</li>
+  <li> Quiz tool scores correctly and provides details on the student&#8217;s 
+    use</li>
+  <li> Can be customized to add desired features</li>
+  <li> Features are robust</li>
+  <li> Survey allows as few as two choices<br>
+  </li>
+</ul>
+<h1>Developer's Feedback</h1>
+<p>Blackboard advantages overMoodle:</p>
+<ul>
+  <li> Moodle&#8217;s fixed block at the top wastes screen &#8220;real estate&#8221;</li>
+  <li> Blackboard&#8217;s features seem more intuitive for beginners</li>
+  <li> Built-in survey tool already available</li>
+  <li> Readily available &#8220;Resources&#8221; area for external web sites to 
+    be grouped</li>
+</ul>
+<h1>Moodle or Blackboard for Future Courses?</h1>
+<p align="center"> <img src="humboldt_files/greenquestionmark.jpg" alt="question mark" height="298" width="185"></p>
+<h1>Developer Satisfaction</h1>
+<ul>
+  <li>Excellent local support to customize Moodle with more desirable features</li>
+  <li>Better results incorporating video in Moodle</li>
+  <li> Campus support to explain features and make implementation suggestions</li>
+  <li>Flexibility results in some confusion when Moodle features are changed with 
+    no warning </li>
+  <li>Remarkable array of tools in Moodle&#8212;some unavailable in Blackboard</li>
+  <li>Not all Blackboard features work like they should: quiz scoring, replicating 
+    the course without breaking internal links, etc.</li>
+  
+</ul>
+<h1>Moodle Customizations</h1>
+<ul>
+  <li>Essay questions added to the quiz module</li>
+  <li> Surveys added</li>
+  <li> Gradebook improved with added features</li>
+  <li> Date/time programming for topics and/or individual activities </li>
+  <li>Quickmail: Allows emailing all or selected students in a course with attachments 
+    and a history </li>
+  <li> Features added to Moodle's Lesson module </li>
+  <li>MyFiles: Students and faculty share files with selected groups</li>
+  <li> Return Assignment: Faculty return graded assignments to students</li>
+</ul>
+<h1>Student Satisfaction<br>
+  Would like another (Blackboard/Moodle) course</h1>
+<p>Blackboard:</p>
+<ul>
+  <li> 46.2% strongly or somewhat agree</li>
+  <li> 30.8% neutral</li>
+  <li> 23.1% somewhat or strongly disagree</li>
+</ul>
+<p>Moodle:</p>
+<ul>
+  <li> 57.2% strongly or somewhat agree</li>
+  <li> 21.4% neutral</li>
+  <li> 21.4% somewhat or strongly disagree</li>
+  
+</ul>
+<h1>Student Satisfaction<br>
+  Which do you prefer, Moodle or Blackboard?</h1>
+<p>No preference &#8211; 42.9%<br>
+  Moodle - 35.7% <br>
+  Blackboard - 21.4%</p>
+<div class="comment"> 
+  <p>Dr. Kathy D. Munoz, Professor (<a href="mailto:kdm1@humboldt.edu">kdm1@humboldt.edu</a>)<br>
+    Joan Van Duzer, Instructional Technologist (<a href="mailto:joan@humboldt.edu">joan@humboldt.edu</a>)</p>
+</div>
+</body></html>

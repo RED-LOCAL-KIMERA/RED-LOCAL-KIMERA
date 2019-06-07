@@ -1,0 +1,25 @@
+To: pruebas0801@gmail.com
+Subject: =?UTF-8?Q?[FUNDACI=C3=93N_KARISMA]_Tu_sitio_ha_sido_actualizado_a_WordPre?=  =?UTF-8?Q?ss_4.4.17?=
+Date: Thu, 31 Jan 2019 02:22:27 +0000
+From: WordPress <wordpress@localhost>
+Message-ID: <d03ae728613d6cf325d69daa1bc293eb@localhost>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+¡Hola! Tu sitio http://localhost/RED_LOCAL/xampp/htdocs/wordpress ha sido actualizado automáticamente a WordPress 4.4.17.
+
+Para más información sobre la versión 4.4.17 revisa la pantalla Acerca de WordPress:
+http://localhost/RED_LOCAL/xampp/htdocs/wordpress/wp-admin/about.php
+
+WordPress 5.0.3 también está ahora disponible. La actualización es fácil y sólo dura un momento:
+http://localhost/RED_LOCAL/xampp/htdocs/wordpress/wp-admin/update-core.php
+
+Si tienes algún problema o necesitas ayuda, los voluntarios en los foros de soporte WordPress.org pueden ayudarte.
+http://es.forums.wordpress.org/
+
+Mantener tu sitio actualizado es importante para la seguridad. También hace que Internet sea un lugar más seguro para ti y tus lectores.
+
+El equipo de WordPress
+
