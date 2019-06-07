@@ -1,0 +1,103 @@
+/* *** css by miss monorom www.intensivstation.ch *** */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by/2.0/deed.en  */
+/* Adaptación hecha para Karisma por Sandra Botero, liberada con licencia Creative Commons - http://creativecommons.org/licenses/by/2.0/deed.en */
+
+
+/** A continuacion se definen los colores y las PROPIEDADES GENERALES de la pagina. **/
+
+body {
+background-color: #ffffff;
+font-size: 14px;
+font-family: Arial,Verdana, SunSans-Regular, Sans-Serif;
+color:#000000;
+text-align: center;
+padding: 0px;
+margin: 0px;
+}
+
+a {color: #000066;
+text-decoration: none;
+font-weight: normal;}
+
+a: visited { color: #000066;
+
+text-decoration: none;
+font-weight: normal;}
+a:hover {color: #003366;
+text-decoration: underline;
+font-weight: bold;}
+a:active { color:#000066;
+text-decoration: none;
+font-weight: normal;}
+
+/** A continuación de definen los colores y las propiedades de TITULO 1 
+El titulo 1 se usa para el menu principal **/
+
+h1 {
+font-size: 18px;
+font-family:Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+color:rgb(153, 0, 0);
+text-transform:uppercase;
+text-align:center;
+background-color: #ffffff;
+border-top:20px solid #ffffff;
+border-bottom:0px solid #003300;
+margin:0px }
+
+h2 {
+font-size: 10px;
+font-family:Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+color:rgb(153, 0, 0);
+text-align:left;
+background-color: #ffffff;
+padding: 0px;
+margin: 0px }
+
+h3 {
+font-size: 12px;
+font-family:Arial, Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+color:#ccccff;
+text-align:left;
+background-color: #ffffff;
+padding: 1px;
+margin:0px }
+
+h4 {
+font-size: 9px;
+font-family:Arial, Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+color:#ccccff;
+text-align:center;
+background-color: #ffffff;
+margin:8px }
+
+
+img.download {vertical-align:middle;}
+
+
+
+/* -----------------Caja de CONTENIDO--------------------- */
+
+
+#content {
+background-color: #ffffff;
+padding: 0px;
+margin-left: 0px;
+margin-right: 0px;
+
+border-right: 1px dotted #000000;
+
+border-left: 1px dotted #000000;
+}
+
+div#content { 
+min-height:800px;
+/*height:expression(this.scrollHeight > 600 ? "auto":"600px"); */
+}
+
+p, pre{
+padding: 5px 10px;
+margin:0px;
+}
+
+
+/* -----------footer--------------------------- */

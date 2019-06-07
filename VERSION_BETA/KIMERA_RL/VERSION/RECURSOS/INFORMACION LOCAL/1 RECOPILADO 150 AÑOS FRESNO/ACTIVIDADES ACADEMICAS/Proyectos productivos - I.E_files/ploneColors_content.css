@@ -1,0 +1,23 @@
+#tb-portal-header, #tb-portal-footer, #tb-portal-globalnav .selected, .tb-portlet, .portalMessage, h1, h2, h3, h4, h5, h6 {
+    border-color: #77bb22;
+}
+
+.portlet-title, .logo {
+    background-color: #77bb22;
+}
+
+.materialViewFirstImage {
+    float: left;
+    margin-right: 10px;
+}
+
+.materialViewOtherImages {
+    float: right;
+    clear: both;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.portalMessage {
+    background-color: #ccdd77;
+}

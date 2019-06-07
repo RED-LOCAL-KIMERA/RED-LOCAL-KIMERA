@@ -1,0 +1,11 @@
+#tb-portal-header, #tb-portal-footer, #tb-portal-globalnav .selected, .tb-portlet, .portalMessage, h1, h2, h3, h4, h5, h6 {
+    border-color: #ff7700;
+}
+
+.portlet-title, .logo {
+    background-color: #ff7700;
+}
+
+.portalMessage {
+    background-color: #ffff88;
+}

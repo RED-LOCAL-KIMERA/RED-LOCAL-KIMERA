@@ -1,0 +1,146 @@
+/* *** css by miss monorom www.intensivstation.ch *** */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by/2.0/deed.en  */
+/* Adaptación hecha para Karisma por Sandra Botero, liberada con licencia Creative Commons - http://creativecommons.org/licenses/by/2.0/deed.en */
+/** A continuacion se definen los colores y las PROPIEDADES GENERALES de la pagina. **/
+
+body {
+background-color: #ccff66;
+font-size: 14px;
+font-family: Arial,Verdana, SunSans-Regular, Sans-Serif;
+color:#000000;
+text-align: justify;
+padding:0px;
+margin:0px;
+}
+a {color: #3505E5;}
+a:visited {color:#3505E5;}
+a:hover {color: #D5D2CF;}
+a:active { color:#000000;}
+
+/** A continuación de definen los colores y las propiedades de TITULO 1 
+El titulo 1 se usa para el menu principal **/
+
+
+
+h1 {
+font-size: 11px;
+font-family: Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+text-transform:uppercase;
+background-color: #ffffff;
+border-top:2px solid #003300;
+border-bottom:2px solid #003300;
+padding:5px 15px;
+margin:0px }
+
+/** A continuación de definen los colores y las propiedades de TITULO 2 
+El titulo 2 se usa para los titulos principales **/
+h2 {
+font-size:18px;
+font-family: Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+color:#990000;
+font-weight: bold;
+text-align: center; 
+padding: 5px 10px;
+margin:0px;}
+
+h3 {
+font-size:14px;
+font-family: Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+font-weight: bold;
+color:#007700;
+text-align: left; 
+padding: 5px 10px;
+margin:5px;}
+
+h4 {
+font-size:12px;
+font-family: Arial, SunSans-Regular, Sans-Serif;
+font-weight: bold;
+text-align: left;
+padding: 5px 10px;
+margin:0px;}
+
+
+h6{
+font-size: 12px;
+font-family: Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+text-transform:uppercase;
+background-color: #ccff66;
+border-top:3px solid #003300;
+border-bottom:2px solid #003300;
+padding:5px 15px;
+margin:0px }
+
+
+img.download {vertical-align:middle;}
+
+
+
+/* ----------estas definiciones centran los textos y se define el color del MENU IZQUIERDA-------------- */
+#container {
+font-family: Arial, SunSans-Regular, Sans-Serif;
+width: 800px;
+text-align: right;
+margin-bottom: 10px;
+margin-left: auto;
+margin-right: auto;
+background-color: #ffffff;
+border-left:1px dotted #000000;
+}
+
+
+
+/* ----------Posicion BANNER-------------- */
+
+#banner {
+background-color: #FFFFFF;
+text-align: right;
+padding: 0px;
+margin: 0px;
+border-right:1px dotted #000000;
+}
+#banner img {padding:0px 0px;} 
+
+
+
+/* -----------------Caja de CONTENIDO--------------------- */
+
+
+#content {
+background-color: #ffffff;
+padding: 0px;
+margin-left: 200px;
+margin-right: 0px;
+border-right:1px dotted #000000;
+border-left:1px dotted #000000;
+}
+
+div#content { 
+min-height:600px;
+/*height:expression(this.scrollHeight > 600 ? "auto":"600px"); */
+}
+
+p, pre{
+padding: 5px 10px;
+margin:0px;
+}
+
+/* --------------left navi------------- */
+#left {
+float: left;
+width: 200px;
+margin: 0px;
+padding: 0px;
+}
+
+/* -----------footer--------------------------- */
+
+#footer {
+clear: both;
+font-size: 10px;
+font-family: Bookman Old Style, Arial, SunSans-Regular, Sans-Serif;
+font-weight: normal;
+background-color: #FFFFFF;
+margin: 0px;
+padding: 0px;
+text-align: right;}

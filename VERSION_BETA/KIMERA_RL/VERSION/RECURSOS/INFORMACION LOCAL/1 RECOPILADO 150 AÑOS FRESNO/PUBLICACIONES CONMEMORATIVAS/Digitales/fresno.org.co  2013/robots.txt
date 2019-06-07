@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: *
+Disallow: /
+Disallow: /cgi-bin/ /wp-admin/ /wp-content/
+User-agent: spbot
+Disallow: /
