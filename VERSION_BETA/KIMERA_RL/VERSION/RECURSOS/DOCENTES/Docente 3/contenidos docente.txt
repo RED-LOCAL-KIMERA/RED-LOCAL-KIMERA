@@ -1,0 +1,8 @@
+Cada docente  podrá incluir en esta carpeta contenidos  digitales que desee sean accedidos por  los alumnos. 
+ 
+Pueden ser contenidos disponibles en la Red Local que  copie aquí u otros contenidos recopilados o creados por el propios docente.
+
+Esta carpeta permite al docente creando nuevas ventanas  poner a disposición de los alumnos contenidos de una forma organizada, por ejemplo los contenidos que hacen referencia a una semana, a un tema, .... 
+
+Puede incluirse cualquier tipo de archivo, teniendo en cuenta  que pueda ser ejecutado en los dispositivos en los cuales los usuarios vayan a acceder la red, computadores, tabletas o celulares.
+
